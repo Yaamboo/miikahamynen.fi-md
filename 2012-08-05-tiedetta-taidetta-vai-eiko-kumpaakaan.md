@@ -2,8 +2,8 @@
 title: "Tiedettä, taidetta, vai eikö kumpaakaan?"
 date: "2012-08-05"
 datetime: "2012-08-05 07:41:12"
-tags: "[mielipidekirjoitukset]"
-category: "[mielipidekirjoitukset]"
+tags: ["mielipidekirjoitukset", ]
+category: ["mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2012/08/05/tiedetta-taidetta-vai-eiko-kumpaakaan/"
 status: "publish"
 coverImageId: ""

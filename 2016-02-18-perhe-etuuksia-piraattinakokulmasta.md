@@ -2,8 +2,8 @@
 title: "Perhe-etuuksia piraattinäkökulmasta"
 date: "2016-02-18"
 datetime: "2016-02-18 07:43:21"
-tags: "[aitiysavustus, lapsilisa, lastenhoidon-tuki, palvelut, perhe, perustulo, perustulo-2, sosiaaliturva, vanhemmuus, vanhempainraha, vapaus]"
-category: "[palvelut, perustulo, vapaus]"
+tags: ["aitiysavustus,lapsilisa,lastenhoidon-tuki,palvelut,perhe,perustulo,perustulo-2,sosiaaliturva,vanhemmuus,vanhempainraha,vapaus", ]
+category: ["palvelut,perustulo,vapaus", ]
 link: "http://miikahamynen.fi/2016/02/18/perhe-etuuksia-piraattinakokulmasta/"
 status: "publish"
 coverImageId: ""

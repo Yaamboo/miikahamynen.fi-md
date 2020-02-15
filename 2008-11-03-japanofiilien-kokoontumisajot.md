@@ -2,8 +2,8 @@
 title: "Japanofiilien kokoontumisajot"
 date: "2008-11-03"
 datetime: "2008-11-03 07:03:00"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/11/03/japanofiilien-kokoontumisajot/"
 status: "publish"
 coverImageId: "897"

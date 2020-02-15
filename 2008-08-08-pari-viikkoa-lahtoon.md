@@ -2,8 +2,8 @@
 title: "Pari viikkoa lähtöön..."
 date: "2008-08-08"
 datetime: "2008-08-08 11:17:23"
-tags: "[yleinen]"
-category: "[yleinen]"
+tags: ["yleinen", ]
+category: ["yleinen", ]
 link: "http://miikahamynen.fi/2008/08/08/pari-viikkoa-lahtoon/"
 status: "publish"
 coverImageId: ""

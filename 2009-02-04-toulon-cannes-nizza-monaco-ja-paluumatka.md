@@ -2,8 +2,8 @@
 title: "Toulon, Cannes, Nizza, Monaco ja paluumatka"
 date: "2009-02-04"
 datetime: "2009-02-04 10:10:57"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2009/02/04/toulon-cannes-nizza-monaco-ja-paluumatka/"
 status: "publish"
 coverImageId: "897"

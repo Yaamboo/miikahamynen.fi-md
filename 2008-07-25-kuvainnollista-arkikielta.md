@@ -2,8 +2,8 @@
 title: "Kuvainnollista arkikieltä"
 date: "2008-07-25"
 datetime: "2008-07-25 06:53:09"
-tags: "[yleinen]"
-category: "[yleinen]"
+tags: ["yleinen", ]
+category: ["yleinen", ]
 link: "http://miikahamynen.fi/2008/07/25/kuvainnollista-arkikielta/"
 status: "publish"
 coverImageId: "286"

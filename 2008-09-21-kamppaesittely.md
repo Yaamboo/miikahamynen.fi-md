@@ -2,8 +2,8 @@
 title: "Kämppäesittely"
 date: "2008-09-21"
 datetime: "2008-09-21 02:55:34"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/21/kamppaesittely/"
 status: "publish"
 coverImageId: "897"

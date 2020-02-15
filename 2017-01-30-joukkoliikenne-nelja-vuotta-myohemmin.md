@@ -2,8 +2,8 @@
 title: "Parempaa joukkoliikennettä etsimässä: Neljä vuotta myöhemmin"
 date: "2017-01-30"
 datetime: "2017-01-30 08:37:21"
-tags: "[avoin-data, joukkoliikenne, jyvaskylan-liikenne, linkki]"
-category: "[joukkoliikenne]"
+tags: ["avoin-data,joukkoliikenne,jyvaskylan-liikenne,linkki", ]
+category: ["joukkoliikenne", ]
 link: "http://miikahamynen.fi/2017/01/30/joukkoliikenne-nelja-vuotta-myohemmin/"
 status: "publish"
 coverImageId: "1963"

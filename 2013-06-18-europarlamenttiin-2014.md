@@ -2,8 +2,8 @@
 title: "Europarlamenttiin 2014"
 date: "2013-06-18"
 datetime: "2013-06-18 11:59:45"
-tags: "[avoin-hallinto, euroopan-unioni, eurovaalit, kampanjointi, tekijanoikeudet, vapaa-tieto, yksityisyys]"
-category: "[avoin-hallinto, kampanjointi, tekijanoikeudet, vapaa-tieto, yksityisyys]"
+tags: ["avoin-hallinto,euroopan-unioni,eurovaalit,kampanjointi,tekijanoikeudet,vapaa-tieto,yksityisyys", ]
+category: ["avoin-hallinto,kampanjointi,tekijanoikeudet,vapaa-tieto,yksityisyys", ]
 link: "http://miikahamynen.fi/2013/06/18/europarlamenttiin-2014/"
 status: "publish"
 coverImageId: ""

@@ -2,8 +2,8 @@
 title: "Maastricht"
 date: "2008-11-22"
 datetime: "2008-11-22 12:28:59"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/11/22/maastricht/"
 status: "publish"
 coverImageId: "897"

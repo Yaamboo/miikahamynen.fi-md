@@ -2,8 +2,8 @@
 title: "Belgian talvea"
 date: "2009-01-11"
 datetime: "2009-01-11 07:50:02"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2009/01/11/belgian-talvea/"
 status: "publish"
 coverImageId: "897"

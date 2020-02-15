@@ -2,8 +2,8 @@
 title: "Linkkiuudistus on vielä kesken"
 date: "2015-09-05"
 datetime: "2015-09-05 04:13:01"
-tags: "[joukkoliikenne, joukkoliikennelautakunta, jyvaskylan-liikenne, kilpailutus, linkki, mielipidekirjoitukset]"
-category: "[joukkoliikenne, mielipidekirjoitukset]"
+tags: ["joukkoliikenne,joukkoliikennelautakunta,jyvaskylan-liikenne,kilpailutus,linkki,mielipidekirjoitukset", ]
+category: ["joukkoliikenne,mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2015/09/05/linkkiuudistus-on-viela-kesken/"
 status: "publish"
 coverImageId: ""

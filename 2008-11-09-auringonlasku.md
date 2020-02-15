@@ -2,8 +2,8 @@
 title: "Auringonlasku"
 date: "2008-11-09"
 datetime: "2008-11-09 10:27:05"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/11/09/auringonlasku/"
 status: "publish"
 coverImageId: "897"

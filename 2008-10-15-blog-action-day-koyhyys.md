@@ -2,8 +2,8 @@
 title: "Blog Action Day - Köyhyys"
 date: "2008-10-15"
 datetime: "2008-10-15 00:44:11"
-tags: "[aktivismi]"
-category: "[aktivismi]"
+tags: ["aktivismi", ]
+category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2008/10/15/blog-action-day-koyhyys/"
 status: "publish"
 coverImageId: ""

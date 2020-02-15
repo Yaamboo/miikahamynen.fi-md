@@ -2,8 +2,8 @@
 title: "Viikonloppumatka"
 date: "2008-10-07"
 datetime: "2008-10-07 04:19:00"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/10/07/viikonloppumatka/"
 status: "publish"
 coverImageId: "897"

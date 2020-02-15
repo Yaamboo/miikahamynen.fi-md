@@ -2,8 +2,8 @@
 title: "Auttaako Internet diktaattoreita?"
 date: "2012-04-01"
 datetime: "2012-04-01 18:07:26"
-tags: "[aktivismi, internet, piraattipuolue, purje]"
-category: "[aktivismi]"
+tags: ["aktivismi,internet,piraattipuolue,purje", ]
+category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2012/04/01/auttaako-internet-diktaattoreita/"
 status: "publish"
 coverImageId: ""

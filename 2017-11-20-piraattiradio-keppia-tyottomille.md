@@ -2,8 +2,8 @@
 title: "Piraattiradio: Keppiä työttömille!"
 date: "2017-11-20"
 datetime: "2017-11-20 18:50:08"
-tags: "[perustulo, perustulo-2, piraattiradio, sosiaaliturva, tyottomyys]"
-category: "[perustulo]"
+tags: ["perustulo,perustulo-2,piraattiradio,sosiaaliturva,tyottomyys", ]
+category: ["perustulo", ]
 link: "http://miikahamynen.fi/2017/11/20/piraattiradio-keppia-tyottomille/"
 status: "publish"
 coverImageId: ""

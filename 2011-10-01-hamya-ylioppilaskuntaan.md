@@ -2,8 +2,8 @@
 title: "Hämyä ylioppilaskuntaan!"
 date: "2011-10-01"
 datetime: "2011-10-01 11:56:15"
-tags: "[aktivismi, jyy]"
-category: "[aktivismi, jyy]"
+tags: ["aktivismi,jyy", ]
+category: ["aktivismi,jyy", ]
 link: "http://miikahamynen.fi/2011/10/01/hamya-ylioppilaskuntaan/"
 status: "publish"
 coverImageId: ""

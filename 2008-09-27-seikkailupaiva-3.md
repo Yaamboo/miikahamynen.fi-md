@@ -2,8 +2,8 @@
 title: "Seikkailupäivä 3"
 date: "2008-09-27"
 datetime: "2008-09-27 02:13:35"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/27/seikkailupaiva-3/"
 status: "publish"
 coverImageId: "897"

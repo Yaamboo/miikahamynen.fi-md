@@ -2,8 +2,8 @@
 title: "Erasmustoiminnan alkua"
 date: "2008-09-13"
 datetime: "2008-09-13 08:16:40"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/13/erasmustoiminnan-alkua/"
 status: "publish"
 coverImageId: ""

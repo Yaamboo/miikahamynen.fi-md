@@ -2,8 +2,8 @@
 title: "Perjantai"
 date: "2008-09-05"
 datetime: "2008-09-05 10:44:23"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/05/perjantai/"
 status: "publish"
 coverImageId: "897"

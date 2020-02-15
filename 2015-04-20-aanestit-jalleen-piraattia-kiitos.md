@@ -2,8 +2,8 @@
 title: "Äänestit (jälleen?) piraattia - kiitos!"
 date: "2015-04-20"
 datetime: "2015-04-20 16:08:19"
-tags: "[eduskuntavaalit, kampanjointi, kiitos, vaalitulos]"
-category: "[kampanjointi]"
+tags: ["eduskuntavaalit,kampanjointi,kiitos,vaalitulos", ]
+category: ["kampanjointi", ]
 link: "http://miikahamynen.fi/2015/04/20/aanestit-jalleen-piraattia-kiitos/"
 status: "publish"
 coverImageId: ""

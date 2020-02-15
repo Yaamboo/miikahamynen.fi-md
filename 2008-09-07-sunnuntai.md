@@ -2,8 +2,8 @@
 title: "Sunnuntai"
 date: "2008-09-07"
 datetime: "2008-09-07 09:57:07"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/07/sunnuntai/"
 status: "publish"
 coverImageId: "897"

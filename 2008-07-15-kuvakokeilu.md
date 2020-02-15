@@ -2,8 +2,8 @@
 title: "Kuvakokeilu"
 date: "2008-07-15"
 datetime: "2008-07-15 23:44:45"
-tags: "[yleinen]"
-category: "[yleinen]"
+tags: ["yleinen", ]
+category: ["yleinen", ]
 link: "http://miikahamynen.fi/2008/07/16/kuvakokeilu/"
 status: "publish"
 coverImageId: "289"

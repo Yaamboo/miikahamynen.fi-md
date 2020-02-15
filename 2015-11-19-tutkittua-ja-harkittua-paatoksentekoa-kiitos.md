@@ -2,8 +2,8 @@
 title: "Tutkittua ja harkittua päätöksentekoa, kiitos!"
 date: "2015-11-19"
 datetime: "2015-11-19 20:03:27"
-tags: "[asumistuki, avoin-hallinto, paatoksenteko, palvelut]"
-category: "[avoin-hallinto, palvelut]"
+tags: ["asumistuki,avoin-hallinto,paatoksenteko,palvelut", ]
+category: ["avoin-hallinto,palvelut", ]
 link: "http://miikahamynen.fi/2015/11/19/tutkittua-ja-harkittua-paatoksentekoa-kiitos/"
 status: "publish"
 coverImageId: ""

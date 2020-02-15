@@ -2,8 +2,8 @@
 title: "ACTA ja kansainvälisen politiikan avoimuus"
 date: "2012-06-14"
 datetime: "2012-06-14 13:42:36"
-tags: "[acta, aktivismi, mielipidekirjoitukset, piraattipuolue]"
-category: "[aktivismi, mielipidekirjoitukset]"
+tags: ["acta,aktivismi,mielipidekirjoitukset,piraattipuolue", ]
+category: ["aktivismi,mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2012/06/14/acta-ja-kansainvalisen-politiikan-avoimuus/"
 status: "publish"
 coverImageId: "350"

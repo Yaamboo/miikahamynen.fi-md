@@ -2,8 +2,8 @@
 title: "Ajatuksia piraattipuolueen tulevaisuudesta"
 date: "2019-09-24"
 datetime: "2019-09-24 18:17:00"
-tags: "[aktivismi, piraattipuolue]"
-category: "[aktivismi]"
+tags: ["aktivismi,piraattipuolue", ]
+category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2019/09/24/ajatuksia-piraattipuolueen-tulevaisuudesta/"
 status: "publish"
 coverImageId: ""

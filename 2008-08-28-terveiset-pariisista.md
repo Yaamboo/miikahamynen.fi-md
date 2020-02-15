@@ -2,8 +2,8 @@
 title: "Terveiset Pariisista!"
 date: "2008-08-28"
 datetime: "2008-08-28 02:28:16"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/08/28/terveiset-pariisista/"
 status: "publish"
 coverImageId: "897"

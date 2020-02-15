@@ -2,8 +2,8 @@
 title: "Ensimmäinen merkintä!"
 date: "2008-07-09"
 datetime: "2008-07-09 00:03:42"
-tags: "[yleinen]"
-category: "[yleinen]"
+tags: ["yleinen", ]
+category: ["yleinen", ]
 link: "http://miikahamynen.fi/2008/07/09/ensimmainen-merkinta/"
 status: "publish"
 coverImageId: ""

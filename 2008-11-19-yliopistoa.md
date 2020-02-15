@@ -2,8 +2,8 @@
 title: "Yliopistoa"
 date: "2008-11-19"
 datetime: "2008-11-19 05:18:18"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/11/19/yliopistoa/"
 status: "publish"
 coverImageId: ""

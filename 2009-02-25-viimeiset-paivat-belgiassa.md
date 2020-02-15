@@ -2,8 +2,8 @@
 title: "Viimeiset päivät Belgiassa"
 date: "2009-02-25"
 datetime: "2009-02-25 10:58:41"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2009/02/25/viimeiset-paivat-belgiassa/"
 status: "publish"
 coverImageId: "897"

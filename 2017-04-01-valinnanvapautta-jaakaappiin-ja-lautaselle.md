@@ -2,8 +2,8 @@
 title: "Valinnanvapautta jääkaappiin ja lautaselle"
 date: "2017-04-01"
 datetime: "2017-04-01 15:31:47"
-tags: "[kasvisruoka, kouluruoka, palvelut, vapaus]"
-category: "[palvelut, vapaus]"
+tags: ["kasvisruoka,kouluruoka,palvelut,vapaus", ]
+category: ["palvelut,vapaus", ]
 link: "http://miikahamynen.fi/2017/04/01/valinnanvapautta-jaakaappiin-ja-lautaselle/"
 status: "publish"
 coverImageId: "2068"

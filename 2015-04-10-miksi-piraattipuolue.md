@@ -2,8 +2,8 @@
 title: "Miksi Piraattipuolue?"
 date: "2015-04-10"
 datetime: "2015-04-10 16:25:48"
-tags: "[aktivismi, demokratia, eduskuntavaalit, piraattipuolue, teemat, vapaus, yksityisyys]"
-category: "[aktivismi, teemat, vapaus, yksityisyys]"
+tags: ["aktivismi,demokratia,eduskuntavaalit,piraattipuolue,teemat,vapaus,yksityisyys", ]
+category: ["aktivismi,teemat,vapaus,yksityisyys", ]
 link: "http://miikahamynen.fi/2015/04/10/miksi-piraattipuolue/"
 status: "publish"
 coverImageId: ""

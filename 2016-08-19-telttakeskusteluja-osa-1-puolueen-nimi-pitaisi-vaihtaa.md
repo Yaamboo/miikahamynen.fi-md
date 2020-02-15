@@ -2,8 +2,8 @@
 title: "Telttakeskusteluja osa 1: \"Puolueen nimi pitäisi vaihtaa\""
 date: "2016-08-19"
 datetime: "2016-08-19 05:06:48"
-tags: "[kampanjointi, piraattipuolue, telttakeskusteluja]"
-category: "[kampanjointi]"
+tags: ["kampanjointi,piraattipuolue,telttakeskusteluja", ]
+category: ["kampanjointi", ]
 link: "http://miikahamynen.fi/2016/08/19/telttakeskusteluja-osa-1-puolueen-nimi-pitaisi-vaihtaa/"
 status: "publish"
 coverImageId: "847"

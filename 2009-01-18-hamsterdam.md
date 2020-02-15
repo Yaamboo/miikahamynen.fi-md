@@ -2,8 +2,8 @@
 title: "(h)Amsterdam"
 date: "2009-01-18"
 datetime: "2009-01-18 10:04:41"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2009/01/18/hamsterdam/"
 status: "publish"
 coverImageId: "897"

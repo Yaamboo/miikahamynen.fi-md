@@ -2,8 +2,8 @@
 title: "Kommentti ennen puoluekokousta 30.11.2019"
 date: "2019-10-31"
 datetime: "2019-10-31 18:30:12"
-tags: "[aktivismi, piraattipuolue]"
-category: "[aktivismi]"
+tags: ["aktivismi,piraattipuolue", ]
+category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2019/10/31/kommentti-ennen-puoluekokousta-30-11-2019/"
 status: "publish"
 coverImageId: ""

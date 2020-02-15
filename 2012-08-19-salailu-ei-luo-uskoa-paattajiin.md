@@ -2,8 +2,8 @@
 title: "Salailu ei luo uskoa päättäjiin"
 date: "2012-08-19"
 datetime: "2012-08-19 07:24:44"
-tags: "[avoin-hallinto, mielipidekirjoitukset]"
-category: "[avoin-hallinto, mielipidekirjoitukset]"
+tags: ["avoin-hallinto,mielipidekirjoitukset", ]
+category: ["avoin-hallinto,mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2012/08/19/salailu-ei-luo-uskoa-paattajiin/"
 status: "publish"
 coverImageId: ""

@@ -2,8 +2,8 @@
 title: "Valikoitujen yhteisöjen tuki"
 date: "2012-10-10"
 datetime: "2012-10-10 18:21:21"
-tags: "[matara, mielipidekirjoitukset, paneeli, piilovaalituki]"
-category: "[mielipidekirjoitukset]"
+tags: ["matara,mielipidekirjoitukset,paneeli,piilovaalituki", ]
+category: ["mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2012/10/10/valikoitujen-yhteisojen-tuki/"
 status: "publish"
 coverImageId: ""

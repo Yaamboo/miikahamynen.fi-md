@@ -2,8 +2,8 @@
 title: "Parempaa joukkoliikennettä etsimässä: kehitetään tiedotusta"
 date: "2012-10-07"
 datetime: "2012-10-07 18:26:16"
-tags: "[joukkoliikenne, jyvaskylan-liikenne]"
-category: "[joukkoliikenne]"
+tags: ["joukkoliikenne,jyvaskylan-liikenne", ]
+category: ["joukkoliikenne", ]
 link: "http://miikahamynen.fi/2012/10/07/parempaa-joukkoliikennetta-etsimassa-kehitetaan-tiedotusta/"
 status: "publish"
 coverImageId: ""

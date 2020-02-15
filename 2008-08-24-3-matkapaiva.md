@@ -2,8 +2,8 @@
 title: "3. matkapäivä"
 date: "2008-08-24"
 datetime: "2008-08-24 05:35:21"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/08/24/3-matkapaiva/"
 status: "publish"
 coverImageId: "897"

@@ -2,8 +2,8 @@
 title: "Seinäjoen Seilaaja"
 date: "2008-08-11"
 datetime: "2008-08-11 13:10:34"
-tags: "[reissaaminen]"
-category: "[reissaaminen]"
+tags: ["reissaaminen", ]
+category: ["reissaaminen", ]
 link: "http://miikahamynen.fi/2008/08/11/seinajoen-seilaaja/"
 status: "publish"
 coverImageId: "274"

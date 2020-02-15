@@ -2,8 +2,8 @@
 title: "Kannustinloukut ovat myös ajallisesti monimutkaisia"
 date: "2017-11-22"
 datetime: "2017-11-22 19:27:54"
-tags: "[kannustinloukku, perustulo, perustulo-2, sosiaaliturva, toimeentulotuki, tyottomyys, yleinen-asumistuki]"
-category: "[perustulo]"
+tags: ["kannustinloukku,perustulo,perustulo-2,sosiaaliturva,toimeentulotuki,tyottomyys,yleinen-asumistuki", ]
+category: ["perustulo", ]
 link: "http://miikahamynen.fi/2017/11/22/kannustinloukut-ovat-myos-ajallisesti-monimutkaisia/"
 status: "publish"
 coverImageId: ""

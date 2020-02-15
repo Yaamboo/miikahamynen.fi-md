@@ -2,8 +2,8 @@
 title: "Aktiivimallin työllistävä vaikutus"
 date: "2017-10-31"
 datetime: "2017-10-31 07:58:36"
-tags: "[sosiaaliturva, tyottomyys, vapaus]"
-category: "[vapaus]"
+tags: ["sosiaaliturva,tyottomyys,vapaus", ]
+category: ["vapaus", ]
 link: "http://miikahamynen.fi/2017/10/31/aktiivimallin-tyollistava-vaikutus/"
 status: "publish"
 coverImageId: "2121"

@@ -2,8 +2,8 @@
 title: "Vaalikrapulaa"
 date: "2019-04-16"
 datetime: "2019-04-16 14:21:31"
-tags: "[eduskuntavaalit, kampanjointi, vaalitulos]"
-category: "[kampanjointi]"
+tags: ["eduskuntavaalit,kampanjointi,vaalitulos", ]
+category: ["kampanjointi", ]
 link: "http://miikahamynen.fi/2019/04/16/vaalikrapulaa/"
 status: "publish"
 coverImageId: ""

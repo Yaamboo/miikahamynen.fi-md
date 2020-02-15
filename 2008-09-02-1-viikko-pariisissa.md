@@ -2,8 +2,8 @@
 title: "1 viikko Pariisissa"
 date: "2008-09-02"
 datetime: "2008-09-02 01:29:47"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/02/1-viikko-pariisissa/"
 status: "publish"
 coverImageId: "897"

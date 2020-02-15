@@ -2,8 +2,8 @@
 title: "Laajempi avoimuus ratkaisuna vallankäytön keskittymiseen"
 date: "2017-03-25"
 datetime: "2017-03-25 05:28:50"
-tags: "[avoimuus, avoin-hallinto, kaupunginvaltuusto, mielipidekirjoitukset, vapaa-tieto]"
-category: "[avoin-hallinto, mielipidekirjoitukset, vapaa-tieto]"
+tags: ["avoimuus,avoin-hallinto,kaupunginvaltuusto,mielipidekirjoitukset,vapaa-tieto", ]
+category: ["avoin-hallinto,mielipidekirjoitukset,vapaa-tieto", ]
 link: "http://miikahamynen.fi/2017/03/25/laajempi-avoimuus-ratkaisuna-vallankayton-keskittymiseen/"
 status: "publish"
 coverImageId: ""

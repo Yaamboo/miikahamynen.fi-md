@@ -2,8 +2,8 @@
 title: "Opintotuki - sosiaalietuus vai investointi?"
 date: "2016-03-17"
 datetime: "2016-03-17 10:56:38"
-tags: "[opintolaina, opintotuki, perustulo, perustulo-2, sosiaaliturva]"
-category: "[perustulo]"
+tags: ["opintolaina,opintotuki,perustulo,perustulo-2,sosiaaliturva", ]
+category: ["perustulo", ]
 link: "http://miikahamynen.fi/2016/03/17/opintotuki-sosiaalietuus-vai-investointi/"
 status: "publish"
 coverImageId: "1899"

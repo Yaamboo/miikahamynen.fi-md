@@ -2,8 +2,8 @@
 title: "Piilovaalituesta avoimeen päätöksentekoon"
 date: "2015-04-15"
 datetime: "2015-04-15 13:59:17"
-tags: "[avoimuus, avoin-hallinto, piilovaalituki, vaaliraha, vapaa-tieto]"
-category: "[avoin-hallinto, vapaa-tieto]"
+tags: ["avoimuus,avoin-hallinto,piilovaalituki,vaaliraha,vapaa-tieto", ]
+category: ["avoin-hallinto,vapaa-tieto", ]
 link: "http://miikahamynen.fi/2015/04/15/piilovaalituesta-avoimeen-paatoksentekoon/"
 status: "publish"
 coverImageId: ""

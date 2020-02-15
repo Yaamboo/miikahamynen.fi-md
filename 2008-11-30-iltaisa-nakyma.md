@@ -2,8 +2,8 @@
 title: "Iltaisa näkymä"
 date: "2008-11-30"
 datetime: "2008-11-30 09:32:05"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/11/30/iltaisa-nakyma/"
 status: "publish"
 coverImageId: "897"

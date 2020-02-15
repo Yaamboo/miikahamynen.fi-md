@@ -2,8 +2,8 @@
 title: "Perustulo pelastaa paikallisesti sopijat"
 date: "2015-10-21"
 datetime: "2015-10-21 04:13:34"
-tags: "[mielipidekirjoitukset, paikallinen-sopiminen, perustulo, perustulo-2, tyottomyys, vapaus]"
-category: "[mielipidekirjoitukset, perustulo, vapaus]"
+tags: ["mielipidekirjoitukset,paikallinen-sopiminen,perustulo,perustulo-2,tyottomyys,vapaus", ]
+category: ["mielipidekirjoitukset,perustulo,vapaus", ]
 link: "http://miikahamynen.fi/2015/10/21/perustulo-pelastaa-paikallisesti-sopijat/"
 status: "publish"
 coverImageId: "713"

@@ -2,8 +2,8 @@
 title: "1. matkapäivä"
 date: "2008-08-21"
 datetime: "2008-08-21 10:50:03"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/08/21/1-matkapaiva/"
 status: "publish"
 coverImageId: "897"

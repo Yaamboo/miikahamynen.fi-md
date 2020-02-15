@@ -2,8 +2,8 @@
 title: "Vaaratilanteita Vesangantiellä"
 date: "2013-11-13"
 datetime: "2013-11-13 11:24:32"
-tags: "[aktivismi]"
-category: "[aktivismi]"
+tags: ["aktivismi", ]
+category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2013/11/13/vaaratilanteita-vesangantiella/"
 status: "publish"
 coverImageId: ""

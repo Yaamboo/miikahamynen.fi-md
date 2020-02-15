@@ -2,8 +2,8 @@
 title: "Marseille & Aix-en-Provence"
 date: "2009-01-31"
 datetime: "2009-01-31 13:53:16"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2009/01/31/marseille-aix-en-provence/"
 status: "publish"
 coverImageId: "897"

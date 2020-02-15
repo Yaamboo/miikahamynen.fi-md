@@ -2,8 +2,8 @@
 title: "Lakkautetaan Kelan maksama peruspäiväraha"
 date: "2016-07-13"
 datetime: "2016-07-13 12:34:31"
-tags: "[perustulo, sosiaaliturva, tyottomyys]"
-category: "[perustulo]"
+tags: ["perustulo,sosiaaliturva,tyottomyys", ]
+category: ["perustulo", ]
 link: "http://miikahamynen.fi/2016/07/13/lakkautetaan-kelan-maksama-peruspaivaraha/"
 status: "publish"
 coverImageId: "803"

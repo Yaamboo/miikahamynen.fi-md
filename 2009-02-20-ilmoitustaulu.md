@@ -2,8 +2,8 @@
 title: "Ilmoitustaulu"
 date: "2009-02-20"
 datetime: "2009-02-20 08:45:50"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2009/02/20/ilmoitustaulu/"
 status: "publish"
 coverImageId: "897"

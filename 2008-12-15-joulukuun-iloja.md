@@ -2,8 +2,8 @@
 title: "Joulukuun iloja"
 date: "2008-12-15"
 datetime: "2008-12-15 17:46:20"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/12/15/joulukuun-iloja/"
 status: "publish"
 coverImageId: "897"

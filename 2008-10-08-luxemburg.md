@@ -2,8 +2,8 @@
 title: "Luxemburg"
 date: "2008-10-08"
 datetime: "2008-10-08 00:45:41"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/10/08/luxemburg/"
 status: "publish"
 coverImageId: "897"

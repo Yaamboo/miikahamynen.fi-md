@@ -2,8 +2,8 @@
 title: "Tilastoja vaalikoneesta"
 date: "2011-10-23"
 datetime: "2011-10-23 11:47:45"
-tags: "[aktivismi, jyy]"
-category: "[aktivismi, jyy]"
+tags: ["aktivismi,jyy", ]
+category: ["aktivismi,jyy", ]
 link: "http://miikahamynen.fi/2011/10/23/tilastoja-vaalikoneesta/"
 status: "publish"
 coverImageId: ""

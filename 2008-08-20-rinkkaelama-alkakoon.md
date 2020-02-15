@@ -2,8 +2,8 @@
 title: "Rinkkaelämä alkakoon"
 date: "2008-08-20"
 datetime: "2008-08-20 02:29:54"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/08/20/rinkkaelama-alkakoon/"
 status: "publish"
 coverImageId: "897"

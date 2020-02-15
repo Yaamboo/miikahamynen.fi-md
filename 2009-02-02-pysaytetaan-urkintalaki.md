@@ -2,8 +2,8 @@
 title: "Pysäytetään Urkintalaki"
 date: "2009-02-02"
 datetime: "2009-02-02 06:31:43"
-tags: "[aktivismi]"
-category: "[aktivismi]"
+tags: ["aktivismi", ]
+category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2009/02/02/pysaytetaan-urkintalaki/"
 status: "publish"
 coverImageId: ""

@@ -2,8 +2,8 @@
 title: "Ovatko nörttinurkat hävinneet konsolisohvien tieltä?"
 date: "2011-08-01"
 datetime: "2011-08-01 17:00:47"
-tags: "[videopelit]"
-category: "[videopelit]"
+tags: ["videopelit", ]
+category: ["videopelit", ]
 link: "http://miikahamynen.fi/2011/08/01/indiegaming/"
 status: "publish"
 coverImageId: ""

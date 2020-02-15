@@ -2,8 +2,8 @@
 title: "Saint-Nicolas"
 date: "2008-12-01"
 datetime: "2008-12-01 08:18:50"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/12/01/saint-nicolas/"
 status: "publish"
 coverImageId: "897"

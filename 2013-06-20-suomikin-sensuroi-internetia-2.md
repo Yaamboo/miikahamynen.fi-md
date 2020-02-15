@@ -2,8 +2,8 @@
 title: "Suomikin sensuroi Internetiä"
 date: "2013-06-20"
 datetime: "2013-06-20 15:11:54"
-tags: "[mielipidekirjoitukset, sananvapaus, sensuuri, yksityisyys]"
-category: "[mielipidekirjoitukset, yksityisyys]"
+tags: ["mielipidekirjoitukset,sananvapaus,sensuuri,yksityisyys", ]
+category: ["mielipidekirjoitukset,yksityisyys", ]
 link: "http://miikahamynen.fi/2013/06/20/suomikin-sensuroi-internetia-2/"
 status: "publish"
 coverImageId: ""

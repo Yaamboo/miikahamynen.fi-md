@@ -2,8 +2,8 @@
 title: "1. opiskeluviikko"
 date: "2008-09-19"
 datetime: "2008-09-19 06:54:48"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/09/19/1-opiskeluviikko/"
 status: "publish"
 coverImageId: "897"

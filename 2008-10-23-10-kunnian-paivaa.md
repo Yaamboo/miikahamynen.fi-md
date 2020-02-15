@@ -2,8 +2,8 @@
 title: "10 kunnian päivää"
 date: "2008-10-23"
 datetime: "2008-10-23 10:03:25"
-tags: "[vaihto]"
-category: "[vaihto]"
+tags: ["vaihto", ]
+category: ["vaihto", ]
 link: "http://miikahamynen.fi/2008/10/23/10-kunnian-paivaa/"
 status: "publish"
 coverImageId: "897"

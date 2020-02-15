@@ -2,8 +2,8 @@
 title: "Rallikaupunki hiljenee"
 date: "2008-08-03"
 datetime: "2008-08-03 23:47:20"
-tags: "[yleinen]"
-category: "[yleinen]"
+tags: ["yleinen", ]
+category: ["yleinen", ]
 link: "http://miikahamynen.fi/2008/08/04/rallikaupunki-hiljenee/"
 status: "publish"
 coverImageId: "283"

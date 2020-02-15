@@ -2,8 +2,8 @@
 title: "Muuttopäivä"
 date: "2008-08-15"
 datetime: "2008-08-15 16:34:30"
-tags: "[yleinen]"
-category: "[yleinen]"
+tags: ["yleinen", ]
+category: ["yleinen", ]
 link: "http://miikahamynen.fi/2008/08/15/muuttopaiva/"
 status: "publish"
 coverImageId: "271"
