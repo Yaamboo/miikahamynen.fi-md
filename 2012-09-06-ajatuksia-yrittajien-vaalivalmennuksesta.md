@@ -2,7 +2,7 @@
 title: "Ajatuksia yrittäjien vaalivalmennuksesta"
 date: "2012-09-06"
 datetime: "2012-09-06 18:13:45"
-tags: ["kilpailutus,lobbaus,palvelut", ]
+tags: ["kilpailutus", "lobbaus", "palvelut", ]
 category: ["palvelut", ]
 link: "http://miikahamynen.fi/2012/09/06/ajatuksia-yrittajien-vaalivalmennuksesta/"
 status: "publish"

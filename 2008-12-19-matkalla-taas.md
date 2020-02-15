@@ -2,8 +2,8 @@
 title: "Matkalla taas"
 date: "2008-12-19"
 datetime: "2008-12-19 19:25:37"
-tags: ["vaihto,videopelit", ]
-category: ["vaihto,videopelit", ]
+tags: ["vaihto", "videopelit", ]
+category: ["vaihto", "videopelit", ]
 link: "http://miikahamynen.fi/2008/12/19/matkalla-taas/"
 status: "publish"
 coverImageId: "897"

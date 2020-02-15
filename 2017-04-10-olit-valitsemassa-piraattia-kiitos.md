@@ -2,7 +2,7 @@
 title: "Olit valitsemassa piraattia - kiitos!"
 date: "2017-04-10"
 datetime: "2017-04-10 12:15:11"
-tags: ["kampanjointi,kiitos,kuntavaalit,vaalitulos", ]
+tags: ["kampanjointi", "kiitos", "kuntavaalit", "vaalitulos", ]
 category: ["kampanjointi", ]
 link: "http://miikahamynen.fi/2017/04/10/olit-valitsemassa-piraattia-kiitos/"
 status: "publish"

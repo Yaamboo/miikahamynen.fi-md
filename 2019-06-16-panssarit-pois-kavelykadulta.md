@@ -2,7 +2,7 @@
 title: "Panssarit pois kävelykadulta!"
 date: "2019-06-16"
 datetime: "2019-06-16 13:42:01"
-tags: ["kaupunkikuva,kavelykatu,mielipidekirjoitukset,panssarimersu,poliisi", ]
+tags: ["kaupunkikuva", "kavelykatu", "mielipidekirjoitukset", "panssarimersu", "poliisi", ]
 category: ["mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2019/06/16/panssarit-pois-kavelykadulta/"
 status: "publish"

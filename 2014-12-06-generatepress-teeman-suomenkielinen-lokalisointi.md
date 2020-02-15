@@ -2,7 +2,7 @@
 title: "GeneratePress-teeman suomenkielinen lokalisointi"
 date: "2014-12-06"
 datetime: "2014-12-06 11:49:50"
-tags: ["atk,generatepress", ]
+tags: ["atk", "generatepress", ]
 category: ["atk", ]
 link: "http://miikahamynen.fi/2014/12/06/generatepress-teeman-suomenkielinen-lokalisointi/"
 status: "publish"

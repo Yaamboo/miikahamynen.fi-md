@@ -2,7 +2,7 @@
 title: "Ei ole täydellistä tapaa tuottaa energiaa"
 date: "2016-04-26"
 datetime: "2016-04-26 04:31:08"
-tags: ["energiantuotanto,fossiiliset-polttoaineet,ilmastonmuutos,mielipidekirjoitukset,ydinvoima", ]
+tags: ["energiantuotanto", "fossiiliset-polttoaineet", "ilmastonmuutos", "mielipidekirjoitukset", "ydinvoima", ]
 category: ["mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2016/04/26/ei-ole-taydellista-tapaa-tuottaa-energiaa/"
 status: "publish"

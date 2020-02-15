@@ -2,8 +2,8 @@
 title: "Ei suinkaan tietovuoto vaan häkkiä ja linnaa"
 date: "2015-04-19"
 datetime: "2015-04-19 06:48:15"
-tags: ["kyttays,mielipidekirjoitukset,televalvonta,urkinta,verkkotiedustelu,yksityisyys", ]
-category: ["mielipidekirjoitukset,yksityisyys", ]
+tags: ["kyttays", "mielipidekirjoitukset", "televalvonta", "urkinta", "verkkotiedustelu", "yksityisyys", ]
+category: ["mielipidekirjoitukset", "yksityisyys", ]
 link: "http://miikahamynen.fi/2015/04/19/ei-suinkaan-tietovuoto-vaan-hakkia-ja-linnaa/"
 status: "publish"
 coverImageId: ""

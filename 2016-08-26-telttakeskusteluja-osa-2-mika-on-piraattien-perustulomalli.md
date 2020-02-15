@@ -2,8 +2,8 @@
 title: "Telttakeskusteluja osa 2: \"Mikä on piraattien perustulomalli?\""
 date: "2016-08-26"
 datetime: "2016-08-26 10:33:31"
-tags: ["kampanjointi,perustulo,perustulo-2,sosiaaliturva,telttakeskusteluja", ]
-category: ["kampanjointi,perustulo", ]
+tags: ["kampanjointi", "perustulo", "perustulo-2", "sosiaaliturva", "telttakeskusteluja", ]
+category: ["kampanjointi", "perustulo", ]
 link: "http://miikahamynen.fi/2016/08/26/telttakeskusteluja-osa-2-mika-on-piraattien-perustulomalli/"
 status: "publish"
 coverImageId: "866"

@@ -2,8 +2,8 @@
 title: "Opiskelijat jälleen kerran kestävyystalkoissa"
 date: "2016-12-14"
 datetime: "2016-12-14 18:28:40"
-tags: ["opintolaina,opintotuki,perustulo,perustulo-2,sosiaaliturva,teemat,yleinen-asumistuki", ]
-category: ["perustulo,teemat", ]
+tags: ["opintolaina", "opintotuki", "perustulo", "perustulo-2", "sosiaaliturva", "teemat", "yleinen-asumistuki", ]
+category: ["perustulo", "teemat", ]
 link: "http://miikahamynen.fi/2016/12/14/opiskelijat-jalleen-kerran-kestavyystalkoissa/"
 status: "publish"
 coverImageId: "1899"

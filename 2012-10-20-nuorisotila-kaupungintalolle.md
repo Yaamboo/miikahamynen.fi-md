@@ -2,8 +2,8 @@
 title: "Nuorisotila kaupungintalolle"
 date: "2012-10-20"
 datetime: "2012-10-20 05:46:08"
-tags: ["avoin-hallinto,kaupungintalo,nuoriso,nuorisotila,palvelut,toiveajattelu,vaikuttaminen", ]
-category: ["avoin-hallinto,palvelut", ]
+tags: ["avoin-hallinto", "kaupungintalo", "nuoriso", "nuorisotila", "palvelut", "toiveajattelu", "vaikuttaminen", ]
+category: ["avoin-hallinto", "palvelut", ]
 link: "http://miikahamynen.fi/2012/10/20/nuorisotila-kaupungintalolle/"
 status: "publish"
 coverImageId: ""

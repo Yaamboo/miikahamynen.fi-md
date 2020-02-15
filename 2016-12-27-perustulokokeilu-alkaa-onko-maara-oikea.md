@@ -2,7 +2,7 @@
 title: "Perustulokokeilu alkaa, onko määrä oikea?"
 date: "2016-12-27"
 datetime: "2016-12-27 17:14:08"
-tags: ["perustulo,perustulo-2,sosiaaliturva", ]
+tags: ["perustulo", "perustulo-2", "sosiaaliturva", ]
 category: ["perustulo", ]
 link: "http://miikahamynen.fi/2016/12/27/perustulokokeilu-alkaa-onko-maara-oikea/"
 status: "publish"

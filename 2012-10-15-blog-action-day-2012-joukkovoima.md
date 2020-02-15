@@ -2,8 +2,8 @@
 title: "Blog Action Day 2012: Joukkovoima"
 date: "2012-10-15"
 datetime: "2012-10-15 19:16:53"
-tags: ["avoin-hallinto,bad12,blog-action-day,joukkovoima,powerofwe,vapaa-tieto", ]
-category: ["avoin-hallinto,vapaa-tieto", ]
+tags: ["avoin-hallinto", "bad12", "blog-action-day", "joukkovoima", "powerofwe", "vapaa-tieto", ]
+category: ["avoin-hallinto", "vapaa-tieto", ]
 link: "http://miikahamynen.fi/2012/10/15/blog-action-day-2012-joukkovoima/"
 status: "publish"
 coverImageId: ""

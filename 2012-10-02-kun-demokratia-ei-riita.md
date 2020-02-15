@@ -2,7 +2,7 @@
 title: "Kun demokratia ei riitä"
 date: "2012-10-02"
 datetime: "2012-10-02 12:59:02"
-tags: ["aktivismi,kuntavaalit,paneeli,piilovaalituki", ]
+tags: ["aktivismi", "kuntavaalit", "paneeli", "piilovaalituki", ]
 category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2012/10/02/kun-demokratia-ei-riita/"
 status: "publish"

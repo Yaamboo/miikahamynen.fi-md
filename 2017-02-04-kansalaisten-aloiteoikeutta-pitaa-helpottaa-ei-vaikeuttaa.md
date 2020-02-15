@@ -2,8 +2,8 @@
 title: "Kansalaisten aloiteoikeutta pitää helpottaa, ei vaikeuttaa"
 date: "2017-02-04"
 datetime: "2017-02-04 05:57:40"
-tags: ["avoin-hallinto,kansalaisaloite,mielipidekirjoitukset,osallistuminen,vaikuttaminen", ]
-category: ["avoin-hallinto,mielipidekirjoitukset", ]
+tags: ["avoin-hallinto", "kansalaisaloite", "mielipidekirjoitukset", "osallistuminen", "vaikuttaminen", ]
+category: ["avoin-hallinto", "mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2017/02/04/kansalaisten-aloiteoikeutta-pitaa-helpottaa-ei-vaikeuttaa/"
 status: "publish"
 coverImageId: ""

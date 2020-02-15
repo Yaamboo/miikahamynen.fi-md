@@ -2,8 +2,8 @@
 title: "\"Peltipoliisi\" Internetissä olisi massavalvontaa"
 date: "2014-09-13"
 datetime: "2014-09-13 10:15:07"
-tags: ["kyttays,mielipidekirjoitukset,televalvonta,yksityisyys", ]
-category: ["mielipidekirjoitukset,yksityisyys", ]
+tags: ["kyttays", "mielipidekirjoitukset", "televalvonta", "yksityisyys", ]
+category: ["mielipidekirjoitukset", "yksityisyys", ]
 link: "http://miikahamynen.fi/2014/09/13/peltipoliisi-internetissa-olisi-massavalvontaa/"
 status: "publish"
 coverImageId: ""

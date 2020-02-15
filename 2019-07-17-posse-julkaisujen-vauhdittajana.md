@@ -2,7 +2,7 @@
 title: "POSSE julkaisujen vauhdittajana"
 date: "2019-07-17"
 datetime: "2019-07-17 12:29:59"
-tags: ["atk,posse,verkkojulkaiseminen", ]
+tags: ["atk", "posse", "verkkojulkaiseminen", ]
 category: ["atk", ]
 link: "http://miikahamynen.fi/2019/07/17/posse-julkaisujen-vauhdittajana/"
 status: "publish"

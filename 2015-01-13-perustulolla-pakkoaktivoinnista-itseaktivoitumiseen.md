@@ -2,8 +2,8 @@
 title: "Perustulolla pakkoaktivoinnista itseaktivoitumiseen"
 date: "2015-01-13"
 datetime: "2015-01-13 05:20:22"
-tags: ["aktivointi,mielipidekirjoitukset,perustulo,perustulo-2,sosiaaliturva,tyottomyys,vapaus", ]
-category: ["mielipidekirjoitukset,perustulo,vapaus", ]
+tags: ["aktivointi", "mielipidekirjoitukset", "perustulo", "perustulo-2", "sosiaaliturva", "tyottomyys", "vapaus", ]
+category: ["mielipidekirjoitukset", "perustulo", "vapaus", ]
 link: "http://miikahamynen.fi/2015/01/13/perustulolla-pakkoaktivoinnista-itseaktivoitumiseen/"
 status: "publish"
 coverImageId: ""

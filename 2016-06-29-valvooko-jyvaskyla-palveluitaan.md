@@ -2,8 +2,8 @@
 title: "Valvooko Jyväskylä palveluitaan?"
 date: "2016-06-29"
 datetime: "2016-06-29 17:03:51"
-tags: ["aktivismi,avoin-hallinto,laadunvalvonta,palvelualoite,vapaa-tieto", ]
-category: ["aktivismi,avoin-hallinto,vapaa-tieto", ]
+tags: ["aktivismi", "avoin-hallinto", "laadunvalvonta", "palvelualoite", "vapaa-tieto", ]
+category: ["aktivismi", "avoin-hallinto", "vapaa-tieto", ]
 link: "http://miikahamynen.fi/2016/06/29/valvooko-jyvaskyla-palveluitaan/"
 status: "publish"
 coverImageId: ""

@@ -2,7 +2,7 @@
 title: "Viime päivinä tapahtunutta..."
 date: "2012-09-27"
 datetime: "2012-09-27 07:30:59"
-tags: ["kampanjointi,kuntavaalit", ]
+tags: ["kampanjointi", "kuntavaalit", ]
 category: ["kampanjointi", ]
 link: "http://miikahamynen.fi/2012/09/27/viime-paivina-tapahtunutta/"
 status: "publish"

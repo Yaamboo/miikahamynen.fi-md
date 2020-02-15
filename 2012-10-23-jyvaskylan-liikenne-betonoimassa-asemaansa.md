@@ -2,8 +2,8 @@
 title: "Jyväskylän Liikenne betonoimassa asemaansa"
 date: "2012-10-23"
 datetime: "2012-10-23 10:19:39"
-tags: ["avoin-hallinto,joukkoliikenne,joukkoliikennelautakunta,jyvaskylan-liikenne", ]
-category: ["avoin-hallinto,joukkoliikenne", ]
+tags: ["avoin-hallinto", "joukkoliikenne", "joukkoliikennelautakunta", "jyvaskylan-liikenne", ]
+category: ["avoin-hallinto", "joukkoliikenne", ]
 link: "http://miikahamynen.fi/2012/10/23/jyvaskylan-liikenne-betonoimassa-asemaansa/"
 status: "publish"
 coverImageId: ""

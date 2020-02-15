@@ -2,8 +2,8 @@
 title: "Kohti kuntavaaleja"
 date: "2012-09-18"
 datetime: "2012-09-18 16:29:19"
-tags: ["aktivismi,kuntavaalit,teemat", ]
-category: ["aktivismi,teemat", ]
+tags: ["aktivismi", "kuntavaalit", "teemat", ]
+category: ["aktivismi", "teemat", ]
 link: "http://miikahamynen.fi/2012/09/18/kohti-kuntavaaleja/"
 status: "publish"
 coverImageId: ""

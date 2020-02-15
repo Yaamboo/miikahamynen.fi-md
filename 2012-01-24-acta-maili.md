@@ -2,7 +2,7 @@
 title: "Sähköpostiviestini MEPeille ACTA-sopimukseen liittyen"
 date: "2012-01-24"
 datetime: "2012-01-24 09:15:43"
-tags: ["acta,aktivismi", ]
+tags: ["acta", "aktivismi", ]
 category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2012/01/24/acta-maili/"
 status: "publish"

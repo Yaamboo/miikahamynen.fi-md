@@ -2,8 +2,8 @@
 title: "Elinvoimaa Jykesin jälkeen"
 date: "2017-03-08"
 datetime: "2017-03-08 06:51:41"
-tags: ["avoin-hallinto,elinkeinopolitiikka,jykes,palvelut,yrityspalvelut", ]
-category: ["avoin-hallinto,palvelut", ]
+tags: ["avoin-hallinto", "elinkeinopolitiikka", "jykes", "palvelut", "yrityspalvelut", ]
+category: ["avoin-hallinto", "palvelut", ]
 link: "http://miikahamynen.fi/2017/03/08/elinvoimaa-jykesin-jalkeen/"
 status: "publish"
 coverImageId: "2015"

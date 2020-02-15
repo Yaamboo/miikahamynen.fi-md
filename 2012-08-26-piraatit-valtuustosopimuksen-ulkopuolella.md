@@ -2,8 +2,8 @@
 title: "Piraatit valtuustosopimuksen ulkopuolella"
 date: "2012-08-26"
 datetime: "2012-08-26 05:36:40"
-tags: ["avoin-hallinto,mielipidekirjoitukset", ]
-category: ["avoin-hallinto,mielipidekirjoitukset", ]
+tags: ["avoin-hallinto", "mielipidekirjoitukset", ]
+category: ["avoin-hallinto", "mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2012/08/26/piraatit-valtuustosopimuksen-ulkopuolella/"
 status: "publish"
 coverImageId: ""

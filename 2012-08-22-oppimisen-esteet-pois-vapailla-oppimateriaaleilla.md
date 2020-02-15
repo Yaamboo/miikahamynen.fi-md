@@ -2,7 +2,7 @@
 title: "Oppimisen esteet pois vapailla oppimateriaaleilla"
 date: "2012-08-22"
 datetime: "2012-08-22 13:35:39"
-tags: ["hackathon,koulutus,oppikirjamaraton,oppikirjat,vapaa-tieto", ]
+tags: ["hackathon", "koulutus", "oppikirjamaraton", "oppikirjat", "vapaa-tieto", ]
 category: ["vapaa-tieto", ]
 link: "http://miikahamynen.fi/2012/08/22/oppimisen-esteet-pois-vapailla-oppimateriaaleilla/"
 status: "publish"

@@ -2,8 +2,8 @@
 title: "Avoimuuden pitää olla proaktiivista, ei reaktiivista"
 date: "2016-08-13"
 datetime: "2016-08-13 04:43:38"
-tags: ["avoimuus,avoin-data,avoin-hallinto,demokratia,lahidemokratia,mielipidekirjoitukset,vapaa-tieto", ]
-category: ["avoin-hallinto,mielipidekirjoitukset,vapaa-tieto", ]
+tags: ["avoimuus", "avoin-data", "avoin-hallinto", "demokratia", "lahidemokratia", "mielipidekirjoitukset", "vapaa-tieto", ]
+category: ["avoin-hallinto", "mielipidekirjoitukset", "vapaa-tieto", ]
 link: "http://miikahamynen.fi/2016/08/13/avoimuuden-pitaa-olla-proaktiivista-ei-reaktiivista/"
 status: "publish"
 coverImageId: "829"

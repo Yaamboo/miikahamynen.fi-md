@@ -2,7 +2,7 @@
 title: "Varhaiskasvatuslain uudistus ei vähentänyt byrokratiaa"
 date: "2016-07-02"
 datetime: "2016-07-02 08:06:45"
-tags: ["paivahoito,palvelut,sosiaaliturva,varhaiskasvatus", ]
+tags: ["paivahoito", "palvelut", "sosiaaliturva", "varhaiskasvatus", ]
 category: ["palvelut", ]
 link: "http://miikahamynen.fi/2016/07/02/varhaiskasvatuslain-uudistus-ei-vahentanyt-byrokratiaa/"
 status: "publish"

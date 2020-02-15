@@ -2,8 +2,8 @@
 title: "Tulevaisuusselontekoon vaikuttamassa"
 date: "2012-10-05"
 datetime: "2012-10-05 12:00:56"
-tags: ["2030,avoin-hallinto,joukkoistaminen,joukkoistuminen,osallistaminen,osallistuminen,tulevaisuus,tulevaisuusselonteko,vapaa-tieto", ]
-category: ["avoin-hallinto,vapaa-tieto", ]
+tags: ["2030", "avoin-hallinto", "joukkoistaminen", "joukkoistuminen", "osallistaminen", "osallistuminen", "tulevaisuus", "tulevaisuusselonteko", "vapaa-tieto", ]
+category: ["avoin-hallinto", "vapaa-tieto", ]
 link: "http://miikahamynen.fi/2012/10/05/tulevaisuusselontekoon-vaikuttamassa/"
 status: "publish"
 coverImageId: ""

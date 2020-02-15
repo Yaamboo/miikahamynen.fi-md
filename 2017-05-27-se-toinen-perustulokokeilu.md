@@ -2,7 +2,7 @@
 title: "Se toinen perustulokokeilu"
 date: "2017-05-27"
 datetime: "2017-05-27 07:24:30"
-tags: ["elaketuki,lex-lindstrom,perustulo,perustulo-2,sosiaaliturva", ]
+tags: ["elaketuki", "lex-lindstrom", "perustulo", "perustulo-2", "sosiaaliturva", ]
 category: ["perustulo", ]
 link: "http://miikahamynen.fi/2017/05/27/se-toinen-perustulokokeilu/"
 status: "publish"

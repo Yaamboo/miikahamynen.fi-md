@@ -2,7 +2,7 @@
 title: "Äänestit piraattia - kiitos!"
 date: "2012-10-29"
 datetime: "2012-10-29 12:01:48"
-tags: ["kampanjointi,kiitos,kuntavaalit,vaalitulos", ]
+tags: ["kampanjointi", "kiitos", "kuntavaalit", "vaalitulos", ]
 category: ["kampanjointi", ]
 link: "http://miikahamynen.fi/2012/10/29/aanestit-piraattia-kiitos/"
 status: "publish"

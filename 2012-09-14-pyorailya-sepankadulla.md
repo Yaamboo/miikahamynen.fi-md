@@ -2,7 +2,7 @@
 title: "Pyöräilyä Sepänkadulla"
 date: "2012-09-14"
 datetime: "2012-09-14 11:51:12"
-tags: ["liikennesuunnittelu,polkupyoraily", ]
+tags: ["liikennesuunnittelu", "polkupyoraily", ]
 category: ["polkupyoraily", ]
 link: "http://miikahamynen.fi/2012/09/14/pyorailya-sepankadulla/"
 status: "publish"

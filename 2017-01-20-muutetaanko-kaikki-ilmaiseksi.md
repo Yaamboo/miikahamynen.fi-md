@@ -2,7 +2,7 @@
 title: "Parempaa joukkoliikennettä etsimässä: muutetaanko kaikki ilmaiseksi?"
 date: "2017-01-20"
 datetime: "2017-01-20 06:52:04"
-tags: ["bussiliput,ilmainen-joukkoliikenne,joukkoliikenne,liikennesuunnittelu", ]
+tags: ["bussiliput", "ilmainen-joukkoliikenne", "joukkoliikenne", "liikennesuunnittelu", ]
 category: ["joukkoliikenne", ]
 link: "http://miikahamynen.fi/2017/01/20/muutetaanko-kaikki-ilmaiseksi/"
 status: "publish"

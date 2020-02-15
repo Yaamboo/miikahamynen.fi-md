@@ -2,8 +2,8 @@
 title: "Avoimuutta päätöksentekoon"
 date: "2017-04-24"
 datetime: "2017-04-24 17:00:23"
-tags: ["avoimuus,avoin-hallinto,mielipidekirjoitukset", ]
-category: ["avoin-hallinto,mielipidekirjoitukset", ]
+tags: ["avoimuus", "avoin-hallinto", "mielipidekirjoitukset", ]
+category: ["avoin-hallinto", "mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2017/04/24/avoimuutta-paatoksentekoon/"
 status: "publish"
 coverImageId: ""

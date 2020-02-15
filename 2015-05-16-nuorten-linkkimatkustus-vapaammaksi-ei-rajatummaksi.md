@@ -2,8 +2,8 @@
 title: "Nuorten linkkimatkustus vapaammaksi, ei rajatummaksi"
 date: "2015-05-16"
 datetime: "2015-05-16 06:36:43"
-tags: ["joukkoliikenne,jyvaskylan-liikenne,linkki,mielipidekirjoitukset,nuoriso", ]
-category: ["joukkoliikenne,mielipidekirjoitukset", ]
+tags: ["joukkoliikenne", "jyvaskylan-liikenne", "linkki", "mielipidekirjoitukset", "nuoriso", ]
+category: ["joukkoliikenne", "mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2015/05/16/nuorten-linkkimatkustus-vapaammaksi-ei-rajatummaksi/"
 status: "publish"
 coverImageId: ""

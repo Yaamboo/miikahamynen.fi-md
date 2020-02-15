@@ -2,8 +2,8 @@
 title: "Kirjesalaisuuden murtaminen johtaa väärinkäytöksiin"
 date: "2016-10-23"
 datetime: "2016-10-23 05:01:19"
-tags: ["kyttays,mielipidekirjoitukset,televalvonta,verkkotiedustelu,yksityisyys", ]
-category: ["mielipidekirjoitukset,yksityisyys", ]
+tags: ["kyttays", "mielipidekirjoitukset", "televalvonta", "verkkotiedustelu", "yksityisyys", ]
+category: ["mielipidekirjoitukset", "yksityisyys", ]
 link: "http://miikahamynen.fi/2016/10/23/kirjesalaisuuden-murtaminen-johtaa-vaarinkaytoksiin/"
 status: "publish"
 coverImageId: "894"

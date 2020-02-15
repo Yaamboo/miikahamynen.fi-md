@@ -2,8 +2,8 @@
 title: "Telttakeskusteluja osa 4: Avoin hallinto"
 date: "2016-11-12"
 datetime: "2016-11-12 19:08:34"
-tags: ["avoimuus,avoin-data,avoin-hallinto,julkisuuslaki,telttakeskusteluja,vapaa-tieto", ]
-category: ["avoin-hallinto,vapaa-tieto", ]
+tags: ["avoimuus", "avoin-data", "avoin-hallinto", "julkisuuslaki", "telttakeskusteluja", "vapaa-tieto", ]
+category: ["avoin-hallinto", "vapaa-tieto", ]
 link: "http://miikahamynen.fi/2016/11/12/telttakeskusteluja-osa-4-avoin-hallinto/"
 status: "publish"
 coverImageId: "1870"

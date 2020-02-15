@@ -2,7 +2,7 @@
 title: "Kilpailua Jyväskylän paikallisliikenteessä"
 date: "2012-08-23"
 datetime: "2012-08-23 04:53:25"
-tags: ["joukkoliikenne,jyvaskylan-liikenne,kilpailutus", ]
+tags: ["joukkoliikenne", "jyvaskylan-liikenne", "kilpailutus", ]
 category: ["joukkoliikenne", ]
 link: "http://miikahamynen.fi/2012/08/23/kilpailua-jyvaskylan-paikallisliikenteessa/"
 status: "publish"

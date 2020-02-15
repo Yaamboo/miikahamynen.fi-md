@@ -2,7 +2,7 @@
 title: "Viitaniemen asuinalueillassa"
 date: "2012-10-11"
 datetime: "2012-10-11 19:00:36"
-tags: ["aktivismi,asuinalueilta,lahidemokratia,vaikutusmahdollisuudet,viitaniemi", ]
+tags: ["aktivismi", "asuinalueilta", "lahidemokratia", "vaikutusmahdollisuudet", "viitaniemi", ]
 category: ["aktivismi", ]
 link: "http://miikahamynen.fi/2012/10/11/viitaniemen-asuinalueillassa/"
 status: "publish"

@@ -2,7 +2,7 @@
 title: "Oppikirjamaraton onnistui"
 date: "2012-10-01"
 datetime: "2012-10-01 15:19:12"
-tags: ["hackathon,koulutus,oppikirjamaraton,oppikirjat,vapaa-tieto", ]
+tags: ["hackathon", "koulutus", "oppikirjamaraton", "oppikirjat", "vapaa-tieto", ]
 category: ["vapaa-tieto", ]
 link: "http://miikahamynen.fi/2012/10/01/oppikirjamaraton-onnistui/"
 status: "publish"

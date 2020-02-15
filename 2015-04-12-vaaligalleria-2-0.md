@@ -2,7 +2,7 @@
 title: "Vaaligalleria 2.0"
 date: "2015-04-12"
 datetime: "2015-04-12 18:19:57"
-tags: ["eduskuntavaalit,haastattelu,teemat,vaaligalleria,yle", ]
+tags: ["eduskuntavaalit", "haastattelu", "teemat", "vaaligalleria", "yle", ]
 category: ["teemat", ]
 link: "http://miikahamynen.fi/2015/04/12/vaaligalleria-2-0/"
 status: "publish"

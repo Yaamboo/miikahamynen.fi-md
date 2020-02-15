@@ -2,7 +2,7 @@
 title: "Telttakeskusteluja osa 3: Piraattien energiapolitiikkaa"
 date: "2016-09-26"
 datetime: "2016-09-26 18:48:29"
-tags: ["energiantuotanto,teemat,telttakeskusteluja,ydinvoima,ymparisto", ]
+tags: ["energiantuotanto", "teemat", "telttakeskusteluja", "ydinvoima", "ymparisto", ]
 category: ["teemat", ]
 link: "http://miikahamynen.fi/2016/09/26/telttakeskusteluja-osa-3-piraattien-energiapolitiikkaa/"
 status: "publish"

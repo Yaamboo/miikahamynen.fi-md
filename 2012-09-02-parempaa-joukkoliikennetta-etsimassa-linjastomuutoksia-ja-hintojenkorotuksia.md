@@ -2,8 +2,8 @@
 title: "Parempaa joukkoliikennettä etsimässä: linjastomuutoksia ja hintojenkorotuksia"
 date: "2012-09-02"
 datetime: "2012-09-02 09:38:31"
-tags: ["avoin-hallinto,joukkoliikenne,joukkoliikennelautakunta,jyvaskylan-liikenne", ]
-category: ["avoin-hallinto,joukkoliikenne", ]
+tags: ["avoin-hallinto", "joukkoliikenne", "joukkoliikennelautakunta", "jyvaskylan-liikenne", ]
+category: ["avoin-hallinto", "joukkoliikenne", ]
 link: "http://miikahamynen.fi/2012/09/02/parempaa-joukkoliikennetta-etsimassa-linjastomuutoksia-ja-hintojenkorotuksia/"
 status: "publish"
 coverImageId: "430"

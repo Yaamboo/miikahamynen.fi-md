@@ -2,7 +2,7 @@
 title: "Todellinen puoluetukiuudistus tarpeen"
 date: "2015-04-28"
 datetime: "2015-04-28 05:33:43"
-tags: ["demokratia,mielipidekirjoitukset,puoluetuki,vaaliraha", ]
+tags: ["demokratia", "mielipidekirjoitukset", "puoluetuki", "vaaliraha", ]
 category: ["mielipidekirjoitukset", ]
 link: "http://miikahamynen.fi/2015/04/28/todellinen-puoluetukiuudistus-tarpeen/"
 status: "publish"
