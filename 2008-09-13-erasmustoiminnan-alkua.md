@@ -1,0 +1,16 @@
+---
+title: "Erasmustoiminnan alkua"
+date: "2008-09-13"
+datetime: "2008-09-13 08:16:40"
+tags: "[vaihto]"
+category: "[vaihto]"
+link: "http://miikahamynen.fi/2008/09/13/erasmustoiminnan-alkua/"
+status: "publish"
+coverImageId: ""
+---
+
+Torstai-iltana huomasin pettymyksekseni sotkeneeni päässäni päivämäärät, ja missanneeni ensimmäisen yliopiston tarjoaman tutustumispäivän uusille ja Erasmus-opiskelijoille Sart-Tilmanin kampuksella. No, tilanteelle ei enää siinä vaiheessa mitään voinut, joten päätin keskittyä perjantai-iltapäivään, jolloin olisi toinen tutustumispäivä, tällä kertaa Place du 20 Aoûtin kampuksella, jossa itsekin tulen opiskelemaan.
+
+Näin ollen perjantaina kello 13:30 olin monen muun opiskelijan kanssa kuuntelemassa tervetulopuhetta, jota oli pitämässä peräti Belgian korkeakouluministeri (ja paljon muita titteleitä), Liègen yliopiston kasvatteja hänkin. Vaikka olen huono tekemään tuttavuutta ihmisiin, onnistuin saamaan puhekontaktin ranskaa myös opiskelevaan vironvenäläiseen tyttöön. Puheen jälkeen lähdimme ryhmissä kaupunkikierrokselle; Erasmus-tutor-oppaamme esittelivät meille tärkeimmät kauppakadut, nähtävyydet ja ajanviettopaikat sekä antoivat hyviä vinkkejä Liègessä asusteleville nuorille. Poikkesimme kesken kierroksen [Maison du Pékèt](http://www.maisondupeket.be/)\-baariin, jossa testasimme paikallisen [Pékèt-erikoisuuden](http://fr.wikipedia.org/wiki/Peket). Itsehän nautin ko. juoman mangomehulla maustettuna. Kierros päättyi yliopiston hallinnoiman [Akvaario-Museon](http://www.aquarium-museum.ulg.ac.be/) aulaan, jossa meille tarjottiin syötävää (sämpylöitä ja sipsejä) ja juotavaa (limsaa tai mehua). Syömisen ja juomisen lomassa tapasin portugalilaisen tytön, joka oli lähestynyt minua jo hostellissa asustellessani, ja lyöttäydyin ryhmittymään, joka eli hyvin paljon illan aikana; kansainvälisessä kasaumassa oli mm. suomalainen, portugalilainen, pari brasilialaista, skotti, englantilainen, puolalainen, tsekki, espanjalainen, saksalainen ja joistain muista maista kotoisin olevia henkilöitä joita en enää muista. Illan päätteeksi meille tarjottiin mahdollisuus katsoa elokuva; muutaman lyhytelokuvan (joissa yhdessä esiintyivät suomalainen ja unkarilainen matkaaja) jälkeen katsoimme elokuvan [Jeux d'enfants](http://imdb.com/title/tt0364517/), joka oli melko hyvä mm. Liègen maisemissa kuvattu elokuva.
+
+Tänään lauantaina oli vuorossa ESN:n (Erasmus Student Network) tarjoama grillilounas Sart-Tilmanissa kello 13:00. Pääsin bussiin ilmaiseksi, kun pysäkillä minulle lahjoitettiin jonkun henkilön jättämä päivälippu. Hetken sompailtuani muiden erasmusten kanssa löysimme oikean rakennuksen, ja tuttuja naamojakin ilmestyi näköpiiriin melko helposti. Ruoaksi tarjottiin hotdoggeja (patonginpala, makkaranpötkö ja ketsuppia/majoneesia oman maun mukaan), juomaksi grenadiinimehua (pitkästä aikaa!), kokista ja olutta (joka ei valitettavasti minua nappaa). Edellispäivän ihmisten seurassa alkoi juttu luistaa ihan kohtuullisesti, vaikkakin neljän aikaan allekirjoittaneen innostus katsella sitä osaa nuorisosta joka oli päättänyt humalluttaa itsensä (ilmaista kaljaa, pakkohan sitä on juoda...) loppui ja pian sen jälkeen poistuinkin paikalta. Illalla olisi tarkoituksena käydä vilkaisemassa kaupungin yöelämää keskustan Carré-alueella... Saa nähdä mitä siitäkin tulee ;)
