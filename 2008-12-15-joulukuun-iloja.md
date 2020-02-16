@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/12/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/12/15/joulukuun-iloja/thumb-otsikko-9/)
+[![](/uploads/2008/12/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/12/15/joulukuun-iloja/thumb-otsikko-9/)
 
 Joulu tulla jollottaa. Ja samalla päiväni täällä Belgian ihmemaassa vähenevät. Ensi torstaina pääsen testaamaan jälleen uutta keskieurooppalaista liikennelaitetta, kun ajelen Thalysillä Pariisiin täältä Liègestä. Mutta ennen sitä, vähän katsausta viime aikoihin.
 

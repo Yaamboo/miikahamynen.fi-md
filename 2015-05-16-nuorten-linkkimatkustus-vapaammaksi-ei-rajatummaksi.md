@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_704" align="alignright" width="400"\][![Jyväskylän_Liikenne_Scania_Omnilink_1](http://miikahamynen.fi/wp-content/uploads/2015/05/Jyväskylän_Liikenne_Scania_Omnilink_1-400x400.jpg)](http://miikahamynen.fi/wp-content/uploads/2015/05/Jyväskylän_Liikenne_Scania_Omnilink_1.jpg) Kuva: [CC-BY Antti Leppänen](http://commons.wikimedia.org/wiki/File:Jyväskylän_Liikenne_Scania_Omnilink_1.JPG?uselang=fi)\[/caption\]
+\[caption id="attachment\_704" align="alignright" width="400"\][![Jyväskylän_Liikenne_Scania_Omnilink_1](/uploads/2015/05/Jyväskylän_Liikenne_Scania_Omnilink_1-400x400.jpg)](/uploads/2015/05/Jyväskylän_Liikenne_Scania_Omnilink_1.jpg) Kuva: [CC-BY Antti Leppänen](http://commons.wikimedia.org/wiki/File:Jyväskylän_Liikenne_Scania_Omnilink_1.JPG?uselang=fi)\[/caption\]
 
 _Mielipidekirjoitus, [julkaistu Keskisuomalaisessa 16.5.2015](http://www.ksml.fi/mielipide/mielipidekirjoitukset/nuorten-linkkimatkustus-vapaammaksi/2046824). Nostettu myös [päivän puheenaiheeksi](http://www.ksml.fi/uutiset/kotimaa/paivan-puheenaihe-nuoret-aina-ilmaiseksi-linja-autoon/2046866). Aiheesta on ilmeisesti olemassa myös [Caius Forsbergin valtuustoaloite](http://www.jyvaskyla.fi:8081/ktwebbin/ktproxy2.dll?doctype=1&docid=323031355c303231375c32343137333531382e504446&dalid=17.2.2015%2014:01:00:000&extension=pdf) ([esitelty valtuustossa 16.2.2015](http://www3.jkl.fi/paatokset/kv/2015/16021800.0/frmtxt35.htm))._
 

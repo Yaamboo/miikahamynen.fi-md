@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-_[![peltipollari](http://miikahamynen.fi/wp-content/uploads/2014/09/peltipollari-400x129.jpg)](http://miikahamynen.fi/wp-content/uploads/2014/09/peltipollari.jpg)Mielipidekirjoitus, ei julkaistu [julkaistu Keskisuomalaisessa 15.9.2014](http://www.ksml.fi/mielipide/mielipidekirjoitukset/ei-peltipoliisia-nettiin/1895687)_
+_[![peltipollari](/uploads/2014/09/peltipollari-400x129.jpg)](/uploads/2014/09/peltipollari.jpg)Mielipidekirjoitus, ei julkaistu [julkaistu Keskisuomalaisessa 15.9.2014](http://www.ksml.fi/mielipide/mielipidekirjoitukset/ei-peltipoliisia-nettiin/1895687)_
 
 Kyberturvallisuusmessujen innoittamana Keskisuomalainen julkaisi uutisen, jonka mukaan Internetiin pitäisi saada oma "peltipoliisi" seuraamaan tietyntyyppistä verkkoliikennettä turvallisuussyistä. Jutussa haastateltiin puolustusministeriön turvallisuuskomitean pääsihteeri Vesa Virtasta, jonka mieleen verkon massavalvonta ei ole. Hän kuitenkin toivoi mahdollisuutta seuloa poikkeavaa verkkoliikennettä vakavien uhkien varalta.
 

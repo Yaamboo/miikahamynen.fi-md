@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/24/4-matkapaiva/thumb-otsikko-27/)
+[![](/uploads/2008/08/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/24/4-matkapaiva/thumb-otsikko-27/)
 
 Herättyäni söin maukkaan aamupalan (2 sämpylää ja teetä) Station Hostelin aulassa. Pakkasin tavarani (yövyin 3 tytön ja 2 pojan kanssa samassa huoneessa, olin ensimmäinen joka poistui, jos ei lasketa sitä heppua joka oli juuri saapunut Kaliforniasta ja nukkui illan ja valvoi aamuyön), keräsin ne lattialta, täytin vesipulloni Kölninvedellä ja poistuin hostellista kohti rautatieasemaa.
 

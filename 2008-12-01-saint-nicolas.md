@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/12/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/12/01/saint-nicolas/thumb-otsikko-10/)
+[![](/uploads/2008/12/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/12/01/saint-nicolas/thumb-otsikko-10/)
 
 Tänään (ja eilen) vietettiin (ja vietetään edelleen) liègeläisten opiskelijoiden pääjuhlallisuutta, eli [pyhän Nikolauksen juhlaa](http://fr.wikipedia.org/wiki/Saint-Nicolas_des_%E9tudiants). Juhlimisen kohteena toimivat [Nikolaos Ihmeidentekijä](http://fi.wikipedia.org/wiki/Nikolaos_Ihmeidentekij%E4), Liègen suojeluspyhimys, sekä [Sinterklaas](http://en.wikipedia.org/wiki/Sinterklaas)\-versio samasta heebosta (joka siis on ikään kuin Belgian ja Hollannin Joulupukki). Mitä suurempi syy siis [humaltua](http://fr.wikipedia.org/wiki/%C0-fond) mallas- ja muista juomista, ja yhdistyä muiden opiskelijoiden kanssa käppäilemään kaupungin läpi juhlakulkueessa. Itsehän osallistuin vain jälkimmäiseen aktiviteettiin. Lisäksi biletystä olisi mahdollista jatkaa yliopiston edustalla läpi illan.
 

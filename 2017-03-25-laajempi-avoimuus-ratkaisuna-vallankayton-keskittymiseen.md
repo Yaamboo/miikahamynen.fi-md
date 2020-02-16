@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-_![](http://miikahamynen.fi/wp-content/uploads/2017/03/mielipide-2017-03-25.jpg)Mielipidekirjoitus, kirjoitettu yhteistyössä [Arto Lampilan kanssa](http://alampila.fi) ja [julkaistu Keskisuomalaisessa 25.3.2017](http://www.ksml.fi/mielipide/mielipidekirjoitus/Laajempi-avoimuus-ratkaisu-vallan-keskittymiseen/954488)._
+_![](/uploads/2017/03/mielipide-2017-03-25.jpg)Mielipidekirjoitus, kirjoitettu yhteistyössä [Arto Lampilan kanssa](http://alampila.fi) ja [julkaistu Keskisuomalaisessa 25.3.2017](http://www.ksml.fi/mielipide/mielipidekirjoitus/Laajempi-avoimuus-ratkaisu-vallan-keskittymiseen/954488)._
 
 Jari Colliander aprikoi Keskisuomalaisessa 17.3.2017 vallan karkaamista kaupunginvaltuustolta muihin, suljettujen ovien takana toimiviin toimielimiin. Ratkaisuksi hän ehdottaa vallan keskittämistä valtuustolle.
 

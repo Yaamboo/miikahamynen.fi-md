@@ -9,6 +9,6 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/11/otsikko-800x740.jpg "otsikko")](http://miikahamynen.fi/2008/11/14/katsaus-ilmoitustaululle/otsikko-4/)
+[![](/uploads/2008/11/otsikko-800x740.jpg "otsikko")](http://miikahamynen.fi/2008/11/14/katsaus-ilmoitustaululle/otsikko-4/)
 
 Tämä ilmoitustaulu on käytännössä "muistotaulu", eli kaikki mahdollinen roina matkantekoon liittyen päätyy sille :)

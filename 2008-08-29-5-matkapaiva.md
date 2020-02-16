@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/29/5-matkapaiva/thumb-otsikko-25/)
+[![](/uploads/2008/08/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/29/5-matkapaiva/thumb-otsikko-25/)
 
 Auringon valjetessa Brysselissä maanantai-aamuna olin jo hereillä. Päiväni oli alkanut jo viideltä, jolloin silmäni olivat auenneet eivätkä sulkemisesta huolimatta uneni jatkuneet. Siitä huolimatta nousin sängystä vasta seitsemältä, ja palkitsin itseni maukkaalla aamupalalla.
 

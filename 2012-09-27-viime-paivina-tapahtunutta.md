@@ -13,7 +13,7 @@ Viime viikon tiistain jälkeen aikani on mennyt suurelta osin vaaleja miettiess�
 
 Torstaina 20.9. kävimme kävelykadulla telttailemassa. Sää vaihteli sateesta aurinkoon, ja teltassa piti roikkua jottei se olisi lähtenyt lentoon, mutta ohikulkijat olivat ihailtavan kiinnostuneita vaaliteemoistamme ja saimme paljon positiivista palautetta.
 
-\[caption id="attachment\_477" align="aligncenter" width="560"\][![](http://miikahamynen.fi/wp-content/uploads/2012/09/CRW_0001-800x533.jpg "Miika pitää teltasta kiinni")](http://miikahamynen.fi/wp-content/uploads/2012/09/CRW_0001.jpg) Pidän telttaa sananmukaisesti pystyssä.\[/caption\]
+\[caption id="attachment\_477" align="aligncenter" width="560"\][![](/uploads/2012/09/CRW_0001-800x533.jpg "Miika pitää teltasta kiinni")](/uploads/2012/09/CRW_0001.jpg) Pidän telttaa sananmukaisesti pystyssä.\[/caption\]
 
 Lauantaina 22.9. kaupunki järjesti auton vapaapäivän vaalitentin. Tapahtuma oli valitettavan huonosti järjestetty; pidin puheenvuoron aiheesta kello 10.30 emmekä valitettavasti emme saaneet telttapaikkaa:
 

@@ -51,7 +51,7 @@ Positiivista on toki se, että kerrankin tukimuotoja yhdistetään, mikä toivon
 
 Vuosien mittaan minua on mietityttänyt koko ajan vain enemmän se, kokevatko nuoret olevansa osallisia suomalaisesta hyvinvointiyhteiskunnasta. Ikuinen puhe leikkauksista ja kestävyysvajeesta, aina vain useammin nuoria koskevat negatiiviset muutokset etuuslainsäädäntöön, paineet valmistua pikaisesti ja huono työllisyystilanne johtavat siihen, että moni nuori luovuttaa jo ennen kuin pääsee liikkeelle. Ei tarvitse katsoa kuin allaolevaa taulukkoa tämän nähdäkseen:
 
-\[caption id="attachment\_1889" align="aligncenter" width="720"\][![](http://miikahamynen.fi/wp-content/uploads/2016/12/Kuvakaappaus-2016-12-14-181815.png)](http://miikahamynen.fi/wp-content/uploads/2016/12/Kuvakaappaus-2016-12-14-181815.png) Hyvinvointia haastavien tekijöiden esiintyvyys vuonna 1987 syntyneiden ikäluokassa (tilanne v. 2012). Lähde: [Suomi nuorten kasvuympäristönä – 25 vuoden seuranta vuonna 1987 Suomessa syntyneistä nuorista aikuisista, s.13](http://urn.fi/URN:ISBN:978-952-302-671-1)\[/caption\]
+\[caption id="attachment\_1889" align="aligncenter" width="720"\][![](/uploads/2016/12/Kuvakaappaus-2016-12-14-181815.png)](/uploads/2016/12/Kuvakaappaus-2016-12-14-181815.png) Hyvinvointia haastavien tekijöiden esiintyvyys vuonna 1987 syntyneiden ikäluokassa (tilanne v. 2012). Lähde: [Suomi nuorten kasvuympäristönä – 25 vuoden seuranta vuonna 1987 Suomessa syntyneistä nuorista aikuisista, s.13](http://urn.fi/URN:ISBN:978-952-302-671-1)\[/caption\]
 
 Suomi täyttää ensi vuonna 100 vuotta. Olisi jo aika päästää irti pitkään kestäneestä leikkauspuheesta ja kilpailukykysopimuksista ja tähdätä kohti uusia utopioita todellisten rakenteellisten uudistusten avulla.
 

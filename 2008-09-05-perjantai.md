@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/09/thumb.otsikko6.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/05/perjantai/thumb-otsikko-23/)
+[![](/uploads/2008/09/thumb.otsikko6.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/05/perjantai/thumb-otsikko-23/)
 
 Perusperjantai lähtee tietenkin puoli kuudelta käyntiin. Sitten bussiin, Verviersissä toiseen bussiin, ja ulos bussista Francorchampsin kylässä...
 

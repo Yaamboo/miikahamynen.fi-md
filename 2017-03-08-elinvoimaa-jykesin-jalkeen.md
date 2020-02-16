@@ -23,7 +23,7 @@ Innokkaalla hakukoneilulla löysin kaupungin verkkosivuilta [pinon dioja](http
 
 Kaupungin suorien yrityspalvelujen (tai nykyisellään Jykesin) lisäksi toimijoita on melko paljon, kuten alle lainaamistani slaideista ilmenee. Tätäkin soppaa hämmentää sote- ja maakuntauudistus. Maakunnat tuottavat jatkossa osan yrityspalveluista, vastaavilta osin kuin nykyisellään TE-palvelut ja ELY-keskus. Jyväskylän yrityspalvelut siis täydentävät maakunnan palveluja ja muovaavat niitä paikallisiin toimintoihin.
 
-\[caption id="attachment\_2009" align="aligncenter" width="750"\][![Elämää Jykesin jälkeen kaupungin näkökulmasta](http://miikahamynen.fi/wp-content/uploads/2017/03/yrityskehitys.png)](http://miikahamynen.fi/wp-content/uploads/2017/03/yrityskehitys.png) Elämää ja elinkeinopolitiikan toimijoita Jykesin aikana ja sen jälkeen [kaupungin näkökulmasta](http://www.jyvaskyla.fi/instancedata/prime_product_julkaisu/jyvaskyla/embeds/jyvaskylawwwstructure/88926_uusi_elinvoima_14022017.pdf).\[/caption\]
+\[caption id="attachment\_2009" align="aligncenter" width="750"\][![Elämää Jykesin jälkeen kaupungin näkökulmasta](/uploads/2017/03/yrityskehitys.png)](/uploads/2017/03/yrityskehitys.png) Elämää ja elinkeinopolitiikan toimijoita Jykesin aikana ja sen jälkeen [kaupungin näkökulmasta](http://www.jyvaskyla.fi/instancedata/prime_product_julkaisu/jyvaskyla/embeds/jyvaskylawwwstructure/88926_uusi_elinvoima_14022017.pdf).\[/caption\]
 
 Hahmotelman perusteella yrityspalvelut avittaisivat yrityksiä niissä asioissa, mitkä ovat kaupungin toimivallan alaisia. Lisäksi ne ohjaisivat tarvittaessa muihin palveluihin ja houkuttelisivat kasvuyrityksiä kaupunkiin. Jykes Kiinteistöjen toiminta jatkuisi jossain muodossa toimitilojen tarjoajana. Tämä lienee jossain määrin perusteltua.
 

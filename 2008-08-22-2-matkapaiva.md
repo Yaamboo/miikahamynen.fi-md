@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/thumb.otsikko4.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/22/2-matkapaiva/thumb-otsikko-29/)
+[![](/uploads/2008/08/thumb.otsikko4.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/22/2-matkapaiva/thumb-otsikko-29/)
 
 Yllä oikealla Odensen rautatieasema, vasemmalla hostelli josta tätä kirjoittelen; keskellä random patsas.
 
@@ -17,7 +17,7 @@ Pikakirjoitustekniikka loistaa, kun Miika väsynyt on. Tänään heräsin kello 
 
 Göteborgissa vierähti nopeasti vajaat kolme tuntia, evääksi matkatavarasäilytyksenrahanvaihto-operaatiosta jääneillä n. 40 kruunulla ostin Lokaa ja 2 hampurilaista ;) Söin niitä jossain puistossa, joka oli kiva. Göteborgin iloihin kuuluivat myös venehet.
 
-\[caption id="attachment\_264" align="alignleft" width="400"\][![Jumalten juoma - Loka.](http://miikahamynen.fi/wp-content/uploads/2008/08/IMG_0057-400x300.jpg "IMG_0057")](http://miikahamynen.fi/2008/08/22/2-matkapaiva/img_0057/) Jumalten juoma - Loka.\[/caption\]
+\[caption id="attachment\_264" align="alignleft" width="400"\][![Jumalten juoma - Loka.](/uploads/2008/08/IMG_0057-400x300.jpg "IMG_0057")](http://miikahamynen.fi/2008/08/22/2-matkapaiva/img_0057/) Jumalten juoma - Loka.\[/caption\]
 
 Jatkoin matkaani kohti Kööpenhaminaa 14:40, ja junan myöhästellessä toisen junan takia aloin jo hetken miettiä, ehtisinkö ajoissa Odenseen menevään junaan... Huoleni oli kuitenkin turha, ja Juutinrauman silta ylittyi siististi aikataulussa. On muuten aika hieno rakennelma se.
 

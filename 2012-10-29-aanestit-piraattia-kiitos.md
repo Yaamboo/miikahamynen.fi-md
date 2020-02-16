@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_569" align="alignright" width="266"\][![](http://miikahamynen.fi/wp-content/uploads/2012/10/miika_osoittaa_itseaan-266x400.jpg "miika_osoittaa_itseaan")](http://miikahamynen.fi/wp-content/uploads/2012/10/miika_osoittaa_itseaan.jpg) Kampanja käynnissä.\[/caption\]
+\[caption id="attachment\_569" align="alignright" width="266"\][![](/uploads/2012/10/miika_osoittaa_itseaan-266x400.jpg "miika_osoittaa_itseaan")](/uploads/2012/10/miika_osoittaa_itseaan.jpg) Kampanja käynnissä.\[/caption\]
 
 Kuntavaalit 2012 on nyt käyty, ja tulokset ovat selvillä. Piraattipuolue ei valitettavasti yltänyt yhteenkään valtuustopaikkaan - lähimmäksi pääsi [Tampereella puheenjohtajamme Harri Kivistö](http://vaalit.yle.fi/tulospalvelu/2012/kuntavaalit/kunnat/tampere_ehdokkaat_vertauslukujarjestyksessa_7_837.html). Itse ylsin 68 äänellä [listamme kolmanneksi](http://vaalit.yle.fi/tulospalvelu/2012/kuntavaalit/kunnat/jyvaskyla_ehdokkaat_vertauslukujarjestyksessa_13_179.html) Arto Lampilan (124) ja Tuomo Kalliokosken (71) taakse. Miksi sitten ennakkoon lähes varmalta vaikuttaneet valtuustopaikat jäivät saavuttamatta? Yritän avata muutamaa mahdollista selitystä.
 

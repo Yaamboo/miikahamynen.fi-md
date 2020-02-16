@@ -23,7 +23,7 @@ Aikatauluissa on tehty pientä hienosäätöä, mikä on yleensä liittynyt myö
 
 Kaupungin [sähköinen reittiopas](https://reittiopas.jyvaskyla.fi/) toimii nykyisellään melko hyvin ja taitaa olla jopa ajan tasalla. Paperinen aikatauluvihko on edelleen pohjimmiltaan sama vuosikymmeniä vanha, päivitystä kaipaava sotku. Aikataulujen joukossa on melkoisesti yleensä huonosti selitettyjä poikkeuksia.
 
-\[caption id="attachment\_1961" align="aligncenter" width="550"\][![](http://miikahamynen.fi/wp-content/uploads/2017/01/aikataulu.png)](http://miikahamynen.fi/wp-content/uploads/2017/01/aikataulu.png) Tästäkö pitäisi ottaa selkoa?\[/caption\]
+\[caption id="attachment\_1961" align="aligncenter" width="550"\][![](/uploads/2017/01/aikataulu.png)](/uploads/2017/01/aikataulu.png) Tästäkö pitäisi ottaa selkoa?\[/caption\]
 
 Pysäkeillä ei ole edelleenkään karttoja lähialueesta eikä käytännössä pysäkkikohtaisia aikatauluja. Busseissa on näyttöjä, joiden pitäisi näyttää pysäkit, mutta ne tuntuvat olevan pitkälti pimeinä. Matkustajan kyky hahmottaa oma sijaintinsa on kuitenkin yksi toimivan joukkoliikenteen perusedellytyksiä!
 
@@ -47,7 +47,7 @@ Kaupunki on avannut joukkoliikennedataa jo [muutaman vuoden ajan](http://data.jy
 
 Lainaan tähän talousarviosta joka vuosi löytyvää graafia henkilöautotiheyden kehityksestä.
 
-[![](http://miikahamynen.fi/wp-content/uploads/2017/01/henkiloautotiheys_1995-2016.jpg)](http://miikahamynen.fi/wp-content/uploads/2017/01/henkiloautotiheys_1995-2016.jpg)
+[![](/uploads/2017/01/henkiloautotiheys_1995-2016.jpg)](/uploads/2017/01/henkiloautotiheys_1995-2016.jpg)
 
 **Jos haluamme todella rakentaa terveempää ja vihreämpää kaupunkia, meidän on pakko vähentää kaupunkilaisten riippuvuutta henkilöautoliikenteestä.** Voimme katkaista tämän trendin joukkoliikenteen radikaaleilla parannuskeinoilla.
 

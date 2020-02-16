@@ -9,6 +9,6 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/11/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/11/30/iltaisa-nakyma/thumb-otsikko-11/)
+[![](/uploads/2008/11/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/11/30/iltaisa-nakyma/thumb-otsikko-11/)
 
 Pahoittelen tärähtäneisyyttä.

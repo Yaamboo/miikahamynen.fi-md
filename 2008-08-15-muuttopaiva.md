@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "271"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/thumb.otsikko6.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/15/muuttopaiva/thumb-otsikko-31/)
+[![](/uploads/2008/08/thumb.otsikko6.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/15/muuttopaiva/thumb-otsikko-31/)
 
 Tänään näkemistelin (en hyvästellyt vaan sanoin näkemiin) betonikolossi-asuntoni Viitaniemen perukoilta.
 

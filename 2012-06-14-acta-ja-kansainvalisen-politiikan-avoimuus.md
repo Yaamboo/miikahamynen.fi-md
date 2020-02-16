@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "350"
 ---
 
-\[caption id="attachment\_345" align="alignright" width="240"\][![](http://miikahamynen.fi/wp-content/uploads/2012/06/CRW_0068-400x266.jpg "ACTA-mielenosoituksen tunnelmaa 9.6.2012")](http://miikahamynen.fi/2012/06/14/acta-ja-kansainvalisen-politiikan-avoimuus/crw_0068/) ACTA-mielenosoituksen tunnelmaa 9.6.2012\[/caption\]
+\[caption id="attachment\_345" align="alignright" width="240"\][![](/uploads/2012/06/CRW_0068-400x266.jpg "ACTA-mielenosoituksen tunnelmaa 9.6.2012")](http://miikahamynen.fi/2012/06/14/acta-ja-kansainvalisen-politiikan-avoimuus/crw_0068/) ACTA-mielenosoituksen tunnelmaa 9.6.2012\[/caption\]
 
 _Mielipidekirjoitus, ei julkaistu. _
 

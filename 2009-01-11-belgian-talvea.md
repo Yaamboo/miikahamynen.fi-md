@@ -9,6 +9,6 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2009/01/otsikko-800x290.jpg "otsikko")](http://miikahamynen.fi/2009/01/11/belgian-talvea/otsikko-2/)
+[![](/uploads/2009/01/otsikko-800x290.jpg "otsikko")](http://miikahamynen.fi/2009/01/11/belgian-talvea/otsikko-2/)
 
 Olen nyt siis taas hypähtänyt tänne talviseen Belgiaan: pakkasta oli perjantaina Brysseliin saapuessa enemmän kuin Helsingissä ja lumimäärä yllätti positiivisesti. Tänään aurinko on lämmittänyt ja jäätynyt Maasin sivuhaara on päässyt sulamaan, mutta edelleen kyseessä on kylmin talvi moneen vuoteen... Mikä on vain positiivinen asia :)

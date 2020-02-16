@@ -39,7 +39,7 @@ Jos perhe asuu kunnassa, joka ei rajoita varhaiskasvatusoikeutta, kunnalta pitä
 
 Jos perhe asuu kunnassa, joka ei ole linjannut oikeudesta laajempaan varhaiskasvatusoikeuteen, isä saattaa kyseenalaistaa, **kannattaako isyyslomaa yleensä ottaen pitää**, kun vanhemman lapsen yksityisen hoidon tuki laskee!
 
-![vanhempainpäivärahaa saaneet isät](http://miikahamynen.fi/wp-content/uploads/2016/07/vanhempainpäivärahaa-saaneet-isät.jpg)
+![vanhempainpäivärahaa saaneet isät](/uploads/2016/07/vanhempainpäivärahaa-saaneet-isät.jpg)
 
 Kun lakia on käsitelty, eniten kiinnitettiin huomiota lapsen etuun (mikä oli toki hyvä asia), mutta tätä vaaraa ei ole huomannut kukaan. Esityksen tasa-arvovaikutuksissakin on pureuduttu lähinnä pitkään kotona perhevapaita pitävien äitien työllistymiseen. [Isät pitävät yhä enemmän isyyslomia](http://www.kela.fi/ajankohtaista/-/asset_publisher/mHBZ5fHNro4S/content/vanhempainpaivarahaa-sai-ennatysmaara-isia), ja olisi sääli, että tämä trendi taittuisi tämän takia.
 

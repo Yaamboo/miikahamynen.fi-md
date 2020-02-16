@@ -13,7 +13,7 @@ Päivän Keskisuomalaisessa (14.9.) oli tehty [tutkivaa journalismia](http://med
 
 Miksi pyöräilijä sitten valitsee jalkakäytävän, kun pitäisi käyttää kevyen liikenteen väylää? Paljon pyöräilevänä tiedän, että yleensä syynä on ihmisten laiskuus yhdistettynä huonosti suunniteltuun liikenneympäristöön. Tässä tapauksessa syyllinen löytyy läheltä: Rajakadun ja Sepänkadun risteyksestä. Kulkiessa Viitaniemestä keskustan suuntaan, kaikki kevyt liikenne (kävelijät ja pyöräilijät) joutuvat käyttämään yhtä ja samaa tunnelia (joka sattuu olemaan myös yksi vaarallisimpia paikkoja pyörällä liikkuvalle koko kaupungissa). Tunneli vaan sattuu olemaan väärällä puolella Sepänkatua suhteessa kevyen liikenteen väylään. Ja tietenkin Sepänkadun ylittääkseen pitää odottaa liikennevaloissa.
 
-\[caption id="attachment\_461" align="aligncenter" width="618"\]![](http://miikahamynen.fi/wp-content/uploads/2012/09/sepankatu1.png "Sepänkadun risteysalue") Ongelmapaikka. Karttakuva [Openstreetmap](http://www.openstreetmap.org/), CC-BY-SA.\[/caption\]
+\[caption id="attachment\_461" align="aligncenter" width="618"\]![](/uploads/2012/09/sepankatu1.png "Sepänkadun risteysalue") Ongelmapaikka. Karttakuva [Openstreetmap](http://www.openstreetmap.org/), CC-BY-SA.\[/caption\]
 
 Kun pyöräilijä saapuu Sepänkadulle sen lounaispuolelta, hän ei halua ylittää katua, koska tietää, että joutuu kohta ylittämään sen uudestaan ja mahdollisesti odottamaan liikennevaloissa. Aivan samalla tavalla kuin autoilija oikaisee mieluusti hiljaisemmalle kadulle välttääkseen liikennevalot, pyöräilijä valitsee pienemmän pahan: "ei kukaan katso pahasti jos tämän yhden korttelinvälin ajan tätä reunaa".
 

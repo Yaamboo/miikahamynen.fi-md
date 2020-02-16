@@ -11,7 +11,7 @@ coverImageId: ""
 
  
 
-[![Kuvakaappaus 2016-06-29 19:11:59](http://miikahamynen.fi/wp-content/uploads/2016/06/Kuvakaappaus-2016-06-29-191159.png)](https://www.facebook.com/miika.hamynen/posts/10154340815151052)
+[![Kuvakaappaus 2016-06-29 19:11:59](/uploads/2016/06/Kuvakaappaus-2016-06-29-191159.png)](https://www.facebook.com/miika.hamynen/posts/10154340815151052)
 
 Annoin pari palautetta kaupungin suuntaan kevytväylälle valuneiden hiekkojen puhdistamiseksi. [Ensimmäinen palautteeni](https://s-asiointi.jkl.fi/eFeedback/fi/View/35804) lähti 26.5. ja [toinen](https://s-asiointi.jkl.fi/eFeedback/fi/View/36559) 21.6. Hiekat poistuivat tänään, 29.6.2016.
 

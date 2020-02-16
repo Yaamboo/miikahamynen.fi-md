@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/09/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/20/seikkailupaiva-2/thumb-otsikko-18/)
+[![](/uploads/2008/09/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/20/seikkailupaiva-2/thumb-otsikko-18/)
 
 Tänään päätin jälleen käydä vähän seikkailemassa. Olin lukenut läheisestä Grivegnéen alueella sijaitsevasta [Chartreusen linnakkeesta](http://www.silentwall.com/ChartreuseI.html), jonka ympärillä olisi metsää ynnä muuta luonnontilassa olevaa roinaa, ja niinpä puolenpäivän jälkeen astelin ulos asunnostani.
 

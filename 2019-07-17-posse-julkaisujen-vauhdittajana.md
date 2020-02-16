@@ -31,7 +31,7 @@ Kaikki julkaisupalvelut eivät kuitenkaan valitettavasti päästä muokkaamaan k
 
 Jotkin palvelut ovat ottaneet POSSEamisen osaksi perusajatustaan ja tarjoavat erikseen helpon mahdollisuuden täydentää metatietoja tai jopa sallivat julkaisun suoraan RSS-syötteestä.
 
-![](https://miikahamynen.fi/wp-content/uploads/2019/07/Kuvakaappaus-2019-07-17-15-10-34.png)
+![](/uploads/2019/07/Kuvakaappaus-2019-07-17-15-10-34.png)
 
 Metatietojen muokkaamista dev.to -palvelussa
 

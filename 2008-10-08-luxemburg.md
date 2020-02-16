@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/10/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/10/08/luxemburg/thumb-otsikko-15/)
+[![](/uploads/2008/10/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/10/08/luxemburg/thumb-otsikko-15/)
 
 Luxemburgin suurherttuakunta on vähän isompi maa kuin mitä alunperin luulin, mutta sen läpimitta ei leveimmässäkään kohdassa ole sataakaan kilometriä. Jumituttuani pääkaupunkiin Luxemburgiin (tiettyä omaleimaisuutta voisi tietenkin maan tai kaupungin nimeen kehitellä) ei minulla ollut muuta vaihtoehtoa kuin tutustua siihen. Mikä nyt ei hirvittävän ikävä asia ollut.
 

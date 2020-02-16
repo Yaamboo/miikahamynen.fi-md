@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-![img_0053](http://miikahamynen.fi/wp-content/uploads/2008/08/IMG_0053.jpg)
+![img_0053](/uploads/2008/08/IMG_0053.jpg)
 
 Matkasuunnitelmani astui täytäntöön tänään noin kello 2:30-3:00 Suomen aikaa, kun pomppasin sängystäni ylös, syöksyin autoon tavaroineni, siirsin itseni lähimmälle pikavuoropysäkille isäni avustuksella (kiitos!) ja nousin Tampereelle kulkevaan linja-autoon. Matkasta ei ole pahemmin kerrottavaa, Tampereella 5:00-5:25 vaihdon jälkeen hyppäsin Turun satamaan suuntaavaan bussiin ja päädyin Viking Amorellalle kahdeksan aikoihin suuntaamaan kohti länsinaapuriamme. Kirjoittelen tätä jossain Maarianhaminan ja Tukholman välissä kannettavallani, näinkin saa ajan kulumaan laivamatkalla ;)
 

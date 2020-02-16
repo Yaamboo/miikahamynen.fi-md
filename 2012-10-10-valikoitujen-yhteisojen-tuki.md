@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_527" align="alignright" width="266"\][![](http://miikahamynen.fi/wp-content/uploads/2012/10/CRW_0008-266x400.jpg "arto_matara")](http://miikahamynen.fi/wp-content/uploads/2012/10/CRW_0008.jpg) Arto Lampila Kansalaistoiminnankeskus Matarassa esittelemässä Piraattipuoluetta Monikulttuurikeskus Glorian vaalitorilla 5.9.2012.\[/caption\]
+\[caption id="attachment\_527" align="alignright" width="266"\][![](/uploads/2012/10/CRW_0008-266x400.jpg "arto_matara")](/uploads/2012/10/CRW_0008.jpg) Arto Lampila Kansalaistoiminnankeskus Matarassa esittelemässä Piraattipuoluetta Monikulttuurikeskus Glorian vaalitorilla 5.9.2012.\[/caption\]
 
 _Mielipidekirjoitus_
 

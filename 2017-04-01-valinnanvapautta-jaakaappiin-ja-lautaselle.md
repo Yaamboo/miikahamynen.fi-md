@@ -19,7 +19,7 @@ Syöminen menee tunteisiin, koska se on meille rutiinia ja ruokavalio jokaise
 
 ## Omakohtaisia kokemuksia
 
-\[caption id="attachment\_1480" align="alignright" width="300"\][![](http://miikahamynen.fi/wp-content/uploads/2008/10/IMG_0067.jpg)](http://miikahamynen.fi/wp-content/uploads/2008/10/IMG_0067.jpg) Udonia Brysselissä 2008.\[/caption\]
+\[caption id="attachment\_1480" align="alignright" width="300"\][![](/uploads/2008/10/IMG_0067.jpg)](/uploads/2008/10/IMG_0067.jpg) Udonia Brysselissä 2008.\[/caption\]
 
 Muistan nuoruudessani ihmetelleeni lihanhimoissani kasvissyöjiä. Yliopistossa kasvisten osuus ruokavaliossani lisääntyi. Ja ihan viime vuosina lihan (ja etenkin punaisen lihan) määrä kotimme lautasilla on laskenut rutkasti. Olen edelleen kaikkiruokainen, mutta valitsen ravintoni kasvispainotteisesti niin työpaikalla kuin kotonakin.
 
@@ -45,7 +45,7 @@ Samalla voidaan lopettaa ihmisten arvottaminen sen mukaan, mitä ruokaa hän sy�
 
 Ylen ja Helsingin Sanomien vaalikoneissa kysyttiin ehdokkaiden suhtautumista kasvisruokaan, ja erot kysymyksenasettelussa näkyvät vastauksissa ainakin piraattien osalta:
 
-\[caption id="attachment\_2062" align="aligncenter" width="1100"\][![](http://miikahamynen.fi/wp-content/uploads/2017/04/kasvisruoka.png)](http://miikahamynen.fi/wp-content/uploads/2017/04/kasvisruoka.png) Graafit muodostettu jyväskyläläisten ehdokkaiden vastauksista. Vaalikonedata [CC-BY-SA Yle](http://yle.fi/uutiset/3-9526290) ja [CC-BY Helsingin Sanomat](https://github.com/HS-Datadesk/avoindata/tree/master/vaalikoneet/kuntavaalit2017).\[/caption\]
+\[caption id="attachment\_2062" align="aligncenter" width="1100"\][![](/uploads/2017/04/kasvisruoka.png)](/uploads/2017/04/kasvisruoka.png) Graafit muodostettu jyväskyläläisten ehdokkaiden vastauksista. Vaalikonedata [CC-BY-SA Yle](http://yle.fi/uutiset/3-9526290) ja [CC-BY Helsingin Sanomat](https://github.com/HS-Datadesk/avoindata/tree/master/vaalikoneet/kuntavaalit2017).\[/caption\]
 
 Ylen vaalikonevastauksien perusteella jyväskyläläiset piraatit tuntuvat olevan pohjimmiltaan samoilla linjoilla kanssani ([datalähde edelleen CC-BY-SA Yle](http://yle.fi/uutiset/3-9526290)):
 

@@ -13,7 +13,7 @@ _Mielipidekirjoitus, [julkaistu Keskisuomalaisessa 4.2.2017 otsikolla "Helpotus
 
 Keskisuomalaisessa 29.1.2017 Kristillisdemokraattien puheenjohtaja Sari Essayah haukkui kansalaisaloitelakia. Hän pitää lakia epäonnistuneena, koska hänen mukaansa 50 000 nimeä on helppo kerätä sähköisesti ja se johtaa huonosti valmisteltujen aloitteiden läpimenoon.
 
-\[caption id="attachment\_1971" align="alignleft" width="300"\][![Keskisuomalaisen kansi 29.1.2017](http://miikahamynen.fi/wp-content/uploads/2017/01/kristilliset.jpg)](http://miikahamynen.fi/wp-content/uploads/2017/01/kristilliset.jpg) Keskisuomalaisen kansi 29.1.2017.\[/caption\]
+\[caption id="attachment\_1971" align="alignleft" width="300"\][![Keskisuomalaisen kansi 29.1.2017](/uploads/2017/01/kristilliset.jpg)](/uploads/2017/01/kristilliset.jpg) Keskisuomalaisen kansi 29.1.2017.\[/caption\]
 
 Eduskuntaan saakka on kuitenkin tähän mennessä päässyt [vasta 15 kansalaisaloitetta](https://www.eduskunta.fi/FI/lakiensaataminen/kansalaisaloite/Sivut/default.aspx). Näistä suurin osa on ollut tarpeeksi hyvin pohjustettuja. Eduskuntakäsittelyssä niitä on silti haukuttu liian keskeneräisiksi. Joidenkin aloitteiden on taas koettu sitovan liikaa eduskunnan käsiä koska aloite on kirjattu valmiin lakitekstin muotoon. Nämä ovat lähinnä tekosyitä, sillä eduskunnalla on mahdollisuus (ja jopa velvollisuus) muokata ja työstää ongelmallista aloitetekstiä. On kohtuutonta vaatia aloitteiden laatijoilta syvällistä lainsäädäntöosaamista etenkin kun aidan toiseltakin puolelta tulee huonosti valmisteltuja lakiesityksiä.
 

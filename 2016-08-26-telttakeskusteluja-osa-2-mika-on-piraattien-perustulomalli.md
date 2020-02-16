@@ -45,7 +45,7 @@ Sinällään ratkaisut asumisen halventamiseen ovat kuntien käsissä: ne kun v
 
 Mistä rahat perustuloon? Käytännössä perustulon käyttöönotto nostaa väistämättä jonkin verran palkkatulon verotusta (ks. alla [eduskunnan tietopalvelun aikanaan vihreille laskema esimerkki](https://www.vihreat.fi/files/liitto/perustulomallin_analyysi%20%282%29_0.pdf#page=6) \[s. 5\]).
 
-![Veroasteet eduskunnan tietopalvelun vihreille laskemana](http://miikahamynen.fi/wp-content/uploads/2016/08/Kuvakaappaus-2016-08-26-115202.png)
+![Veroasteet eduskunnan tietopalvelun vihreille laskemana](/uploads/2016/08/Kuvakaappaus-2016-08-26-115202.png)
 
 Laajasti käytössä olevaa perustuloa rahoitettaisiin ainakin siirtymävaiheessa mm. työttömyysvakuutus-, sairausvakuutus- ja eläkerahastojen kautta. Vaikka veroaste nousisi, kyseiset vakuutusmaksut saattaisivat ainakin oman logiikkani mukaan kutistua, koska perustulon verran rahaa siirtyisi "toiselle momentille" maksettavaksi.
 

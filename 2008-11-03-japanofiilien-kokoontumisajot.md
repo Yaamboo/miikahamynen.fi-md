@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/11/thumb.otsikko3.jpg "081101_asianim.indd")](http://miikahamynen.fi/2008/11/03/japanofiilien-kokoontumisajot/081101_asianim-indd/)
+[![](/uploads/2008/11/thumb.otsikko3.jpg "081101_asianim.indd")](http://miikahamynen.fi/2008/11/03/japanofiilien-kokoontumisajot/081101_asianim-indd/)
 
 Tervepä terve! Viime aikoina on ollut vähän hiljaisempaa täällä päin, liekö syynä sitten elämän normaaliin uomiin asettuminen vai puheenaiheen keksimisen puheenaiheettomuus, mene ja tiedä. Elämä täällä Liègessä ei tosiaan kovin erikoista ole viime aikoina ollut: olenkin ajanvietteenä koodaillut pari uutta ominaisuutta tänne (aikataulullista hahmottamista helpottava kalenteri ja uusimpien kommenttien näyntä etusivun alareunassa) ja korjaillut pieniä bugeja.
 

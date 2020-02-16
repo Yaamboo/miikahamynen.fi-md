@@ -21,9 +21,9 @@ Suuremmassa mittakaavassa puolueaktiivien mielipiteisiin pääseekin hyvin käsi
 
 [Helsingin Sanomien vaalikonevastausten](http://www.hs.fi/politiikka/a1305929269692) perusteella jopa kolme neljäsosaa puolueen ehdokkaista kannatti ydinvoiman lisärakentamista eduskuntavaaleissa 2015. Vain kokoomuslaiset vastaajat olivat innokkaammin pystyttämässä voimaloita.
 
-[![hs-ydinvoima](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-ydinvoima.png)](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-ydinvoima.png)
+[![hs-ydinvoima](/uploads/2016/09/hs-ydinvoima.png)](/uploads/2016/09/hs-ydinvoima.png)
 
-Lähes samassa suhteessa ehdokkaamme halusivat luopua kivihiilen, turpeen ja maakaasun käytöstä.[![hs-kivihiili-ym](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-kivihiili-ym.png)](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-kivihiili-ym.png)
+Lähes samassa suhteessa ehdokkaamme halusivat luopua kivihiilen, turpeen ja maakaasun käytöstä.[![hs-kivihiili-ym](/uploads/2016/09/hs-kivihiili-ym.png)](/uploads/2016/09/hs-kivihiili-ym.png)
 
 Näiden kahden kysymyksen vastausten perusteella piraatit eroavatkin selkeästi vihreistä, jota useat pitävät verrokkipuolueenamme.
 
@@ -43,9 +43,9 @@ Tyyppihyväksynnän puuttuminen johtaa siihen, että lupaa vastaan kannattaa rak
 
 Todennäköisesti suurin syy ydinvoiman kannatukseen löytynee HS:n tietoaineiston parista viimeisestä kysymyksestä. Suurinta osaa puolueen ehdokkaista yhdisti selvästi huoli ympäristöstämme. Uskallan epäillä, että monet järkeilevät asian samoin kuin minä: suuria määriä energiaa täytyy tuottaa puhtaammin kuin ennen; kaikkea energiantuotantoa ei voida ratkaista pelkästään uusiutuvilla lähteillä; korvataan siis saastuttavampia ja vaarallisempia energiamuotoja (hiili, öljy, turve) ydinvoimalla.
 
-[![hs-talouskasvu-vai-ymparisto](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-talouskasvu-vai-ymparisto.png)](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-talouskasvu-vai-ymparisto.png)
+[![hs-talouskasvu-vai-ymparisto](/uploads/2016/09/hs-talouskasvu-vai-ymparisto.png)](/uploads/2016/09/hs-talouskasvu-vai-ymparisto.png)
 
-[![hs-ympariston-huomiointi](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-ympariston-huomiointi.png)](http://miikahamynen.fi/wp-content/uploads/2016/09/hs-ympariston-huomiointi.png)
+[![hs-ympariston-huomiointi](/uploads/2016/09/hs-ympariston-huomiointi.png)](/uploads/2016/09/hs-ympariston-huomiointi.png)
 
 Ydinvoima nähdään puolueen sisällä selvästi **yhtenä ratkaisuna työssä ilmastonmuutosta vastaan**. Olisiko aika siis kypsä energiapolitiikan periaatteiden kirjaamiselle myös puolueohjelmaan? Toriumvoima käyttöön, fossiiliset alas pikavauhtia? Miten huomioimme uusiutuvat energianlähteet? Vaaditaanko pidemmällä aikavälillä siirtymistä fuusiovoimaan? Vaaditaanko myös muita radikaaleja toimia ilmastonmuutoksen ehkäisyyn? Näiden asioiden muotoilu vaatii vielä työtä puolueen sisällä.
 

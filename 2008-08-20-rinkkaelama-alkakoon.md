@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/thumb.otsikko5.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/20/rinkkaelama-alkakoon/thumb-otsikko-30/)
+[![](/uploads/2008/08/thumb.otsikko5.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/20/rinkkaelama-alkakoon/thumb-otsikko-30/)
 
 Yllä suurinpiirtein minimaalinen määrä tavaraa, jolla saa itsensä selviämään vuoden ajan ulkomailla. Enempää en halua enkä jaksa ottaa mukaan, puuttuvat esineistöt hankin paikan päältä.
 

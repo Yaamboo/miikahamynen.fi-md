@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2012/10/kaupungintalo_pieni-400x300.jpg "kaupungintalo_pieni")](http://miikahamynen.fi/wp-content/uploads/2012/10/kaupungintalo_pieni.jpg)[Tänään avataan kuntavaalikatu](http://www3.jkl.fi/tapahtumat/tapahtuma.php?id=43939), eli puolueiden telttakylä, Jyväskylän kävelykadulle. Myös piraatit pyrkivät olemaan paikalla joka päivä, vähän vaihdellen porukkaa jaksamisen mukaan. Tervetuloa tutustumaan!
+[![](/uploads/2012/10/kaupungintalo_pieni-400x300.jpg "kaupungintalo_pieni")](/uploads/2012/10/kaupungintalo_pieni.jpg)[Tänään avataan kuntavaalikatu](http://www3.jkl.fi/tapahtumat/tapahtuma.php?id=43939), eli puolueiden telttakylä, Jyväskylän kävelykadulle. Myös piraatit pyrkivät olemaan paikalla joka päivä, vähän vaihdellen porukkaa jaksamisen mukaan. Tervetuloa tutustumaan!
 
 Jyväskylän [kaupungintalo on ollut remontissa](http://www.jyvaskyla.fi/hallinto/kaupungintalo) jo pari vuotta, ja sen pitäisi kohtapuoliin alkaa valmistua. Peruskorjauksen myötä toivotaan ratkaisua rakennuksen sisäilmaongelmiin. Saa nähdä, miten asiassa käy. Jälkiviisaana on hyvä todeta, että remontin yhteydessä olisi voinut ratkaista myös yhden toisen ongelman: Kirkkopuistosta, jossa nuoriso usein aikaansa viettää, tai sen lähialueilta, puuttuu nuorisotila. On totta, että lähistöllä toimii [Katulähetyksen Nuortentalo Katutaso](https://www.facebook.com/katutaso), mutta sinne on korttelin kävelymatka eikä se ole auki kuin alkuillasta.
 

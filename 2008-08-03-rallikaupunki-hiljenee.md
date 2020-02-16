@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "283"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/otsikko-800x493.jpg "otsikko")](http://miikahamynen.fi/2008/08/04/rallikaupunki-hiljenee/otsikko-6/)
+[![](/uploads/2008/08/otsikko-800x493.jpg "otsikko")](http://miikahamynen.fi/2008/08/04/rallikaupunki-hiljenee/otsikko-6/)
 
 Huh, menipä viikko nopeasti :D Rallit ovat nyt ohi ja palkinnot jaettu. Viikko suorastaan hujahti ohi, ja monia hienoja hetkiä tuli sen aikana koettua. Tein siis hommia jo toista vuotta peräkkäin Paviljongin huoltoalueella kilpailukeskuksessa, opastaen tiimihenkilökuntaa ja ihmetteleviä rallituristeja oikeaan paikkaan tai oikean henkilön luokse. Vaikka hommasta ei palkkaa maksettukaan, se oli antoisaa ja mukavaa ajanvietettä, sekä toki mahdollisuus kohentaa kielitaitoani. Jokaisen ranskaa puhuvan ihmisen kanssa piti toki kääntää keskustelu käyttämään ko. kieltä :)
 

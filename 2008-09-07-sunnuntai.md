@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/09/thumb.otsikko4.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/07/sunnuntai/thumb-otsikko-21/)
+[![](/uploads/2008/09/thumb.otsikko4.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/07/sunnuntai/thumb-otsikko-21/)
 
 Kaikki hyvä loppuu aikanaan - niin myös moottoriurheilu. Ylläolevassa jonossa istuessani olin jo tulossa poispäin radalta; kyydin sain nettitutun kaverilta tänään sunnuntaina. Tapasin sattumalta brassin jonka kanssa hengasin kaksi edellistäkin päivää, ja vietimme päivän istuen Pouhonin tuplavasurissa kaikkien kisojen ajan.
 

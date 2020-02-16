@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/10/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/10/07/viikonloppumatka/thumb-otsikko-16/)
+[![](/uploads/2008/10/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/10/07/viikonloppumatka/thumb-otsikko-16/)
 
 Kesällä suunnitellessani reissua Suomeen syksyllä sain varattua itselleni Ryanairin lennot Hahn-Tampere-Hahn vajaaseen 35 euroon. Eihän tilaisuutta voinut jättää käyttämättä, ja niinpä torstaina 2.10. suuntasin jalkaisin kohti Liège-Guilleminsin asemaa, josta junani kohti Luxemburgia lähti kello 7:18. Hahnin lentokenttä sijaitsee teoriassa melko lähellä Liègeä, mutta kulkuyhteydet ovat onnettomat; saavuttuani Luxemburgiin n. 9:45 vaihdoin Hahnin sukkulabussiin (jota sain hetken hakea aseman edustalta), joka 10:00 hurautti itsensä liikenteeseen. Trierin ja jonkun pikkukylän kautta matkattuamme olin perillä Hahnissa aikataulun mukaisesti 11:55, eli matkaan kentälle meni noin 4 ja puoli tuntia... Päätin jo tuolloin, että seuraava matka tapahtuu Brysselin kentän kautta, vaikka matka tapahtuisikin 10 kertaa kalliimmalla hinnalla.
 

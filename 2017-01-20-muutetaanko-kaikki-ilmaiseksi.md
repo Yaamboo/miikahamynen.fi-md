@@ -25,7 +25,7 @@ Ilmaista joukkoliikennettä on kokeiltu vuosien aikana monessa kaupungissa mones
 
 Hasseltissa bussiliikenne palautettiin ikävä kyllä maksulliseksi vuonna 2013. Aubagnessa liikenne on edelleen ilmaista. Siellä avattiin raitiovaunulinja vuonna 2015, joka nosti [raidekertoimen](http://jlf.fi/f20/4640-raidekerroin/) vaikutuksella matkustajamääriä entisestään. Sivuhuomiona [Aubagnen alueen liikenteenjärjestäjän vuosikertomuksen tietomäärästä](http://paysdaubagne.fr/sites/default/files/documents/cra_2015_29_juil_16.pdf) saisi ottaa mallia jokainen suomalainen joukkoliikenteen järjestäjä.
 
-\[caption id="attachment\_1956" align="aligncenter" width="4928"\][![](http://miikahamynen.fi/wp-content/uploads/2017/01/Alstom_Citadis_Compact_LIGNES_DE_LAGGLO_Château_Blanc_-_Florian_Fèvre.jpg)](http://miikahamynen.fi/wp-content/uploads/2017/01/Alstom_Citadis_Compact_LIGNES_DE_LAGGLO_Château_Blanc_-_Florian_Fèvre.jpg) Raidekerroin vetää myös Aubagnen alueella väkeä ratikkaan. Kuva: CC-BY-SA [Florian Fèvre / Transports Urbains Français](https://commons.wikimedia.org/wiki/File:Alstom_Citadis_Compact_LIGNES_DE_L%27AGGLO_Ch%C3%A2teau_Blanc_-_Florian_F%C3%A8vre.JPG).\[/caption\]
+\[caption id="attachment\_1956" align="aligncenter" width="4928"\][![](/uploads/2017/01/Alstom_Citadis_Compact_LIGNES_DE_LAGGLO_Château_Blanc_-_Florian_Fèvre.jpg)](/uploads/2017/01/Alstom_Citadis_Compact_LIGNES_DE_LAGGLO_Château_Blanc_-_Florian_Fèvre.jpg) Raidekerroin vetää myös Aubagnen alueella väkeä ratikkaan. Kuva: CC-BY-SA [Florian Fèvre / Transports Urbains Français](https://commons.wikimedia.org/wiki/File:Alstom_Citadis_Compact_LIGNES_DE_L%27AGGLO_Ch%C3%A2teau_Blanc_-_Florian_F%C3%A8vre.JPG).\[/caption\]
 
 ## Mallia Tallinnasta tai Pieksämäeltä?
 

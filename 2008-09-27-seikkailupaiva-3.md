@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/09/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/27/seikkailupaiva-3/thumb-otsikko-17/)
+[![](/uploads/2008/09/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/27/seikkailupaiva-3/thumb-otsikko-17/)
 
 Kuten ylläolevasta kuvasta huomaa, syksy alkaa saapua myös Belgiaan. Perjantai käynnistyi laiskahkosti, mutta sain itseni ennen puoltapäivää suorittamaan puhdistustoiminnot: käynti pesulassa toista kertaa alkoi olla jo normaalihkoa. Kuivattaminen tosin on täällä vähän hidasta, jos ei halua käyttää kuivausrumpua (maksaa muistaakseni 50 snt pesulan 3,50e:n lisäksi). Söin maukkaan liharuoan (pastaa ja jauhelihapakastekasvissörsseliä), punaista lihaa en ollutkaan syönyt lämpöisenä ruokana mm. rahapoliittisista syistä yli kuukauteen. Sulattelussa menikin sitten oma hetkensä, mutta kolmelta olin siinä tilassa, että pakkasin reppuuni juomapulloa ja evästä ja siirryin asuntoni ulkopuolelle.
 

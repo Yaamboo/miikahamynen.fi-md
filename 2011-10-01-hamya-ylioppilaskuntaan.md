@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-**[![](http://miikahamynen.fi/wp-content/uploads/2012/02/edarimiika.jpg "edarimiika")](http://miikahamynen.fi/2011/10/01/hamya-ylioppilaskuntaan/edarimiika/)Miika Hämynen – 275**
+**[![](/uploads/2012/02/edarimiika.jpg "edarimiika")](http://miikahamynen.fi/2011/10/01/hamya-ylioppilaskuntaan/edarimiika/)Miika Hämynen – 275**
 
 Olen ehdolla [JYYn edustajistovaaleissa 2011](http://www.jyy.fi/fi/mika_jyy/edustajisto/edustajistovaalit_2011/?id=117) [Yhdistyneiden kieltenlukijoiden](http://groups.jyu.fi/yk/edustajisto) vaalilistalla. Ehdokasnumeroni on **275**.
 

@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/08/thumb.otsikko3.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/24/3-matkapaiva/thumb-otsikko-28/)
+[![](/uploads/2008/08/thumb.otsikko3.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/08/24/3-matkapaiva/thumb-otsikko-28/)
 
 (Lisätty Brysselissä, en jaksanut vääntää Kölnissä wlanin kanssa)
 

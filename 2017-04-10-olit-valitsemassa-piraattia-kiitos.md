@@ -33,7 +33,7 @@ Omalta osaltani vaalitulos oli huonompi kuin odotin. Sain 68 ääntä, joilla p
 
 Unelmat enemmästä kuin yhdestä valtuutetusta söi uskomaton vihreiden ponnahdus kaupungin suurimmaksi puolueeksi, joka sai vaalivalvojaisväen haukkomaan henkeään. Arvioimme, että monet potentiaaliset äänestäjät taisivat siis hypätä jälleen kerran toisen hevosen kyytiin.
 
-\[caption id="attachment\_2082" align="aligncenter" width="600"\][![](http://miikahamynen.fi/wp-content/uploads/2017/04/Kuvakaappaus-2017-04-10-143741.png)](http://miikahamynen.fi/wp-content/uploads/2017/04/Kuvakaappaus-2017-04-10-143741.png) Jyväskylän vaalitulos [Ylen palvelussa](https://vaalit.yle.fi/tulospalvelu/kv2017/vaalipiiri/11/kunta/179).\[/caption\]
+\[caption id="attachment\_2082" align="aligncenter" width="600"\][![](/uploads/2017/04/Kuvakaappaus-2017-04-10-143741.png)](/uploads/2017/04/Kuvakaappaus-2017-04-10-143741.png) Jyväskylän vaalitulos [Ylen palvelussa](https://vaalit.yle.fi/tulospalvelu/kv2017/vaalipiiri/11/kunta/179).\[/caption\]
 
 Toisen valtuutettumme saimme **Helsinkiin** (0,9 %), jossa Petrus Pennanen oli listansa ylivoimainen ykkönen 1364 äänellä (perässä piraateista Ville Hautakangas 145, Ilari Tuominen 113, Ahto Apajalahti 109 ääntä). Petruksen varavaltuutetut tulevatkin liberaalipuolueesta: Amos Ahola (556) ja Leo Bergman (278 ääntä).
 

@@ -282,7 +282,7 @@ yht. vastaajia
 
 249
 
-[![](http://miikahamynen.fi/wp-content/uploads/2011/10/vaalikone.png "vaalikone")](http://miikahamynen.fi/2011/10/23/tilastoja-vaalikoneesta/vaalikone/)
+[![](/uploads/2011/10/vaalikone.png "vaalikone")](http://miikahamynen.fi/2011/10/23/tilastoja-vaalikoneesta/vaalikone/)
 
 Opetuksen laatu
 

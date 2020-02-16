@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2009/01/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/01/31/marseille-aix-en-provence/thumb-otsikko-5/)
+[![](/uploads/2009/01/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/01/31/marseille-aix-en-provence/thumb-otsikko-5/)
 
 Viime viikon keskiviikkona (21.1.) kävin tosiaan viimeisissä tenteissä tällä erää, ja oli rentoutumisen ym. toiminnan aika. Ja mikäpä mukavempaa kuin lähteä seikkailemaan maailman ympäri (tai ainakin jotain sen tyylistä). Ryanair on tunnetusti halpa ratkaisu, joten olin hommannut liput Charleroi-Marseille-akselille. Sunnuntaina (25.1.) oli helppo matkustaa jälleen kerran junalla Charleroihin, ja maisemien katselun jälkeen bussilla lentokentälle ("Eteläinen Bryssel"). Marseille-Provencen lentokentältä (entinen Marignane) jälleen bussin kautta junaan, Saint-Charlesin rautatieasemalta metroon, metrosta bussiin, bussilla pari pysäkkiä liian pitkälle ja kävellen hostelliin.
 

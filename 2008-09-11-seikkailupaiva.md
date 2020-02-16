@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/09/thumb.otsikko3.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/11/seikkailupaiva/thumb-otsikko-20/)
+[![](/uploads/2008/09/thumb.otsikko3.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/09/11/seikkailupaiva/thumb-otsikko-20/)
 
 Alkuviikko meni sairastaessa. Nuhaflunssa aiheutti kutsumusta ostamaan nenäliinoja ja täydentämään muutenkin ruokavarastoa maanantaina. Muuten päivä meni sisätiloissa niistäessä ja tv-sarjaa koneelta katsellessa. Päivän päätteeksi onnistuin repäisemään n. 2 cm pitkän vekin oikean polven yläpuolelle suihkuun mennessä, joka onneksi näytti vaan pahemmalta kuin mitä oli (oli se silti paha, mutta ei vaatinut laastaria eli vuosi vähän; osui siis hyvään paikkaan verisuonien kannalta). Tiistai oli jo parempi päivä ja sain itseni pyörähtämään kaupungilla katsomassa ihmistä yliopistolla joka ei ollut paikalla, ja tekemässä jotain muuta jota en enää muista. Keskiviikkona pyörähdin kauppaan ostamaan mausteita ja muuta roinaa (mm. laastareita), ja iltapäivällä kävin Hognoulin Ikeassa ostamassa itselleni kunnon tyynyn ja roskakorin. Ja tsekkamassa ko. kaupan.
 

@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/10/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/10/23/10-kunnian-paivaa/thumb-otsikko-14/)
+[![](/uploads/2008/10/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/10/23/10-kunnian-paivaa/thumb-otsikko-14/)
 
 Koska blogi ei ole auennut minulle parina viime päivänä kuin satunnaisesti, merkintä on jäänyt lähettämättä. Saa nähdä saanko kuvat mukaan myös...
 

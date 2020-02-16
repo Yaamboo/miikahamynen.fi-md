@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2009/01/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/01/18/hamsterdam/thumb-otsikko-7/)
+[![](/uploads/2009/01/thumb.otsikko2.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/01/18/hamsterdam/thumb-otsikko-7/)
 
 Tentit. Nuo ihmiskunnan syleilevät aamunkoitot. Kun kasaamme päähämme paljon asioita ja sitten läväytämme ne siististi (ja vähemmän siististi) paperille, tuloksena on kaikkea muuta kuin se, mitä opiskelija antaa itsensä ymmärtää asioista, joiden kohtalona on päätyä yleiseen jakeluun johonkin paikkaan, jonka nimeä en näin virallisessa yhteydessä viitsi mainita, koska pelkään sen aiheuttavan tiettyä mielipahaa lukijoideni keskuudessa, jolloin menetän sen viimeisenkin uskottavuuden rippeen, joka minulla ehkä on ollut joskus jäljellä. Eli tenttiviikot menossa ovat, mutta nautiskelen myös elämästä erään suomineidon kanssa (jota en ole vielä vaihtanut kahteen kameliin).
 

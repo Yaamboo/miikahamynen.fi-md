@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_489" align="alignright" width="280"\][![](http://miikahamynen.fi/wp-content/uploads/2012/10/kala-vaaka-400x212.png "kala-vaaka")](http://miikahamynen.fi/wp-content/uploads/2012/10/kala-vaaka.png) Kuva: [Hannu Köngäs](https://github.com/linjaaho/oppikirjamaraton-maa1/tree/master/kuvia/oppikirjamaraton/haukijavaaka), CC-BY\[/caption\]
+\[caption id="attachment\_489" align="alignright" width="280"\][![](/uploads/2012/10/kala-vaaka-400x212.png "kala-vaaka")](/uploads/2012/10/kala-vaaka.png) Kuva: [Hannu Köngäs](https://github.com/linjaaho/oppikirjamaraton-maa1/tree/master/kuvia/oppikirjamaraton/haukijavaaka), CC-BY\[/caption\]
 
 Seurasin viime viikonlopun aikana [Oppikirjamaraton-projektia](https://www.facebook.com/oppikirjamaraton) sen mitä muilta tekemisiltäni ehdin. Sen yhteydessä kirjoitettiin lukion pitkän matematiikan ykköskurssin kirjaa perjantaista sunnuntaihin. Kirjan nimeksi tuli **Vapaa matikka 1**, ja lopputuloksen voi [ladata GitHubista](https://github.com/linjaaho/oppikirjamaraton-maa1/downloads). Projekti sai myös paljon julkisuutta eri medioissa. Tekijät saivat siis aikaiseksi sen mitä aikoivatkin: vaikka kirjasta puuttuukin vielä paljon kaavoja sun muuta kuvitusta, tehtävät ovat jo valmiita, ja teoriaosuuskin toimii.
 

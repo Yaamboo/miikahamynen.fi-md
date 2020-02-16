@@ -13,9 +13,9 @@ Torstaisessa [joukkoliikennelautakunnan kokouksessa](http://www3.jkl.fi/paatokse
 
 Olen itsekin linjastomuutosten kannalla, mutta valitettavasti selvityksen myötä tarjotut vaihtoehdot ovat varsin konservatiivisia. Kaikista kummallisinta on se, että molemmat ehdotukset tulisivat kasvattamaan kustannuksia niiden vähentämisen sijaan; eikö paremman tarjonnan pitäisi houkutella ihmisiä käyttämään joukkoliikennettä oman auton sijasta ja lisätä näin lipputuloja? Jos itse saisin toivoa, haluaisin nähdä myös reittejä, jotka eivät kulkisi keskustan kautta; moni valitsee auton bussin sijasta joillain väleillä, koska bussilla kulkeminen hidastaisi matkantekoa kymmenillä minuuteilla turhan keskustassa kääntymisen takia (esimerkiksi kulkiessa Keltinmäen ja Kuokkalan välillä).
 
-\[caption id="attachment\_433" align="alignright" width="305"\]![](http://miikahamynen.fi/wp-content/uploads/2012/09/jkl-bussilinjat.png "jkl-bussilinjat") Oma näkemykseni tulevaisuuden mahdolliseksi runkolinjastoksi.\[/caption\]
+\[caption id="attachment\_433" align="alignright" width="305"\]![](/uploads/2012/09/jkl-bussilinjat.png "jkl-bussilinjat") Oma näkemykseni tulevaisuuden mahdolliseksi runkolinjastoksi.\[/caption\]
 
-\[caption id="attachment\_430" align="alignleft" width="305"\]![](http://miikahamynen.fi/wp-content/uploads/2012/09/jkl-bussilinjat_ve2.png "jkl-bussilinjat_ve2") Esitetyn vaihtoehdon 2 runkolinjasto: linjat 1, 2, 12, 18/18K, 25/25K ja 27. Jätin graafista pois "Peruslinja +" -kategoriaan kuuluneet linjat.\[/caption\]
+\[caption id="attachment\_430" align="alignleft" width="305"\]![](/uploads/2012/09/jkl-bussilinjat_ve2.png "jkl-bussilinjat_ve2") Esitetyn vaihtoehdon 2 runkolinjasto: linjat 1, 2, 12, 18/18K, 25/25K ja 27. Jätin graafista pois "Peruslinja +" -kategoriaan kuuluneet linjat.\[/caption\]
 
 Linjastosuunnitelmaan voi kuitenkin vielä vaikuttaa. Kaupunki on avannut [verkkosivuilleen kyselyn](http://www.jyvaskyla.fi/kadut/joukkoliikenne) (myös Laukaan ja Muuramen liikennöinnin osalta), jonka kautta itse kukin voi käydä ilmaisemassa näkemyksensä. Aikaa on pari viikkoa 16.9. saakka.
 

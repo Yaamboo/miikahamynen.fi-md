@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/11/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/11/22/maastricht/thumb-otsikko-12/)
+[![](/uploads/2008/11/thumb.otsikko1.jpg "thumb.otsikko")](http://miikahamynen.fi/2008/11/22/maastricht/thumb-otsikko-12/)
 
 Eilen (21.11.) tuli täyteen 3 kuukautta matkustelua; lähdin Suomesta aamuyöstä 21.8. kohti keski-Euroopan seikkailuja. Aika tuntuu menneen välillä hitaammin, välillä nopeammin, mutta jälkikäteen katsoen kaikki aikamääreet tuntuvat aina hirveän lyhyiltä ajoilta. Tiedä sitten mistä johtuu se. Myöskin tuntuu, että aika kulkee nopeammin ulkomailla kuin Suomessa...
 

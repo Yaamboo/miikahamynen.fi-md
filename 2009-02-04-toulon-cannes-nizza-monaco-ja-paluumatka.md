@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2009/02/thumb.otsikko3.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/02/04/toulon-cannes-nizza-monaco-ja-paluumatka/thumb-otsikko-4/)
+[![](/uploads/2009/02/thumb.otsikko3.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/02/04/toulon-cannes-nizza-monaco-ja-paluumatka/thumb-otsikko-4/)
 
 Kun aurinko jälleen keskiviikko-aamuna (28.1.) loi ensimmäisiä säteitään Marseillen kaupunkiin, olin jo kirjautunut pois hostellista ja matkalla kohti Saint-Charlesin asemaa. Lainaus tekstiviestistä: "Mäihän poika. Tulin asemalle ja heti oli juna Touloniin :D Tää on 50min myöhässä tosin, mut ei se haittaa." Ostin pikaisesti lipun ja hyppäsin TERiin, joka pysähtyi seuraavan kerran seuraavassa satamakaupungissa, eli Toulonissa. Matkalla ärsyynnyin huonoa musiikkia kuuntelevaan mieheen (jonka kuulokkeista kuului vain tsikatsikatsii pukatsikatsii), mutta maisemat olivat nätit.
 

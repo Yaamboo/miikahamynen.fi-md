@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_495" align="alignright" width="266"\][![](http://miikahamynen.fi/wp-content/uploads/2012/10/CRW_0009-266x400.jpg "Vaalipaneelimainos")](http://miikahamynen.fi/wp-content/uploads/2012/10/CRW_0009.jpg) "Puolueiden" = partitiivi?\[/caption\]
+\[caption id="attachment\_495" align="alignright" width="266"\][![](/uploads/2012/10/CRW_0009-266x400.jpg "Vaalipaneelimainos")](/uploads/2012/10/CRW_0009.jpg) "Puolueiden" = partitiivi?\[/caption\]
 
 Avoin kirje Monikulttuurikeskus Glorialle
 

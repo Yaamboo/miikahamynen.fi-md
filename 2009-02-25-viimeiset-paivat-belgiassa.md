@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "897"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2009/02/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/02/25/viimeiset-paivat-belgiassa/thumb-otsikko/)
+[![](/uploads/2009/02/thumb.otsikko.jpg "thumb.otsikko")](http://miikahamynen.fi/2009/02/25/viimeiset-paivat-belgiassa/thumb-otsikko/)
 
 Sain vieraita viime viikonlopuksi (eli vanhemmat ja pikkuveli tulivat käymään) näin Belgia-loppuajan kunniaksi, ja pääsin jälleen olemaan tehokas matkaopas kiertäessämme Liègeä ja Brysseliä. Päänähtävyydet tuli vilkaistua läpi molemmista kaupungeista, mutta niiden lisäksi päätimme miesporukalla (jotkut meistä sattuvat olemaan tietynlaisia autourheilufanaatikkoja) käydä maanantaina 23.2. vilkaisemassa Spa-Francorchampsin uuden ja vanhan kilparadan läpi, sekä käväistä Stavelotissa sijaitsevassa ratamuseossa.
 

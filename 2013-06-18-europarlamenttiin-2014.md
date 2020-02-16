@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_584" align="alignright" width="280"\][![Europarlamenttirakennus Brysselissä](http://miikahamynen.fi/wp-content/uploads/2013/06/IMG_0003_pieni-400x266.jpg)](http://miikahamynen.fi/wp-content/uploads/2013/06/IMG_0003_pieni.jpg) Tämän lähempänä europarlamenttia en ole vielä ollut.\[/caption\]
+\[caption id="attachment\_584" align="alignright" width="280"\][![Europarlamenttirakennus Brysselissä](/uploads/2013/06/IMG_0003_pieni-400x266.jpg)](/uploads/2013/06/IMG_0003_pieni.jpg) Tämän lähempänä europarlamenttia en ole vielä ollut.\[/caption\]
 
 Piraattipuolue järjestää näinä päivinä jäsenäänestyksen eurovaaliehdokkaistaan ensi kevään vaaleja varten. Olen tavoittelemassa ehdokaspaikkaa [25 muun aktiivin](http://piraattipuolue.fi/eurovaalit-2014/) kanssa. Puolue voi asettaa yhteensä 20 ehdokasta vaaleihin.
 

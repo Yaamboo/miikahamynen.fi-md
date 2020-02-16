@@ -55,6 +55,6 @@ Tämä ehdotus ei kuitenkaan ole poliittisesti niin helppo ratkaisu, sillä ty
 
 Lainaan Hiilamon ja kumppanien raportin kakkossivulta oleelliset ongelmat, joihin uudistus toisi ratkaisua:
 
-![Kuvakaappaus 2016-07-02 09:11:03](http://miikahamynen.fi/wp-content/uploads/2016/07/Kuvakaappaus-2016-07-02-091103.png)
+![Kuvakaappaus 2016-07-02 09:11:03](/uploads/2016/07/Kuvakaappaus-2016-07-02-091103.png)
 
 Tai sitten voitaisiin ihan vaan **ottaa käyttöön se perustulo**. Sen avulla pääsisimme varmuudella eroon peruspäiväraha–työmarkkinatuki-köydenvedosta.

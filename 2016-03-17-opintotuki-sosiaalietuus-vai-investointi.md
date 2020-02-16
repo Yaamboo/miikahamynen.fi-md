@@ -17,7 +17,7 @@ Positiivista esityksessä oli se, että opintotuen (joka siis koostuu nykyisell�
 
 Hyvä kysymys onkin, miksi juuri opintotukea on muutettu näin usein. Pitkäjänteisyys päätöksissä on hakusessa, kun edellisen muutoksen vaikutuksia ei pystytä edes arvioimaan ennen uuden muutoksen voimaantuloa. Opintotuki on kaiken lisäksi sosiaaliturvan kokonaismenoissa kuin pisara valtameressä (ks. alla), joten mikromanageroinnin määrä ei ole ainakaan omasta mielestäni missään suhteessa sen merkittävyyteen kansantaloudelle.
 
-\[caption id="attachment\_735" align="aligncenter" width="599"\]![sosiaalimenot](http://miikahamynen.fi/wp-content/uploads/2016/03/sosiaalimenot.png) Lähde: [Kelan taskutilasto 2015, s. 4](http://www.kela.fi/documents/10180/1677517/Taskutilasto_2015.pdf/c3be5350-df0a-4ff9-bc19-00f9c1abec77?version=1.0#page=6)\[/caption\]
+\[caption id="attachment\_735" align="aligncenter" width="599"\]![sosiaalimenot](/uploads/2016/03/sosiaalimenot.png) Lähde: [Kelan taskutilasto 2015, s. 4](http://www.kela.fi/documents/10180/1677517/Taskutilasto_2015.pdf/c3be5350-df0a-4ff9-bc19-00f9c1abec77?version=1.0#page=6)\[/caption\]
 
 Kumpi opintotuki sitten on, sosiaalietuus vai investointi tulevaisuuteen? Kompromissihakuisessa Suomessa tuki vaikuttaa olevan vähän kumpaakin. [Hallituksen esityksessä](https://www.eduskunta.fi/valtiopaivaasiat/HE+226/1993) opintotukea kuvaillaan näin:
 

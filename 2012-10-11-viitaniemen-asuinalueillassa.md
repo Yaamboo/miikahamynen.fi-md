@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_536" align="alignright" width="300"\][![](http://miikahamynen.fi/wp-content/uploads/2012/10/Viitatorni-300x400.jpg "Viitatorni")](http://miikahamynen.fi/wp-content/uploads/2012/10/Viitatorni.jpg) Viitatorni kesällä 2008.\[/caption\]
+\[caption id="attachment\_536" align="alignright" width="300"\][![](/uploads/2012/10/Viitatorni-300x400.jpg "Viitatorni")](/uploads/2012/10/Viitatorni.jpg) Viitatorni kesällä 2008.\[/caption\]
 
 Kaupunki järjesti torstai-iltana Viitaniemen koululla [asuinalueillan](http://www.jyvaskyla.fi/osallistu/kylakierros) (muistio tulossa). Illan tarkoituksena oli käydä läpi asukkaiden näkökulmasta alueen hyviä puolia ja sen puutteita. Itse olin edustamassa nuorisoa muuten melko iäkkään osallistujajoukon seassa. Viitaniemessä olin asunut ennen Belgian-vaihtoani puolitoista vuotta, ja nyt taas paluumuuttajana parin kuukauden ajan, joten alue on jo tullut melko tutuksi.
 

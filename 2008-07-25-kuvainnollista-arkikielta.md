@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: "286"
 ---
 
-[![](http://miikahamynen.fi/wp-content/uploads/2008/07/otsikko-800x533.jpg "otsikko")](http://miikahamynen.fi/2008/07/25/kuvainnollista-arkikielta/otsikko-7/)
+[![](/uploads/2008/07/otsikko-800x533.jpg "otsikko")](http://miikahamynen.fi/2008/07/25/kuvainnollista-arkikielta/otsikko-7/)
 
 No niin, blogi alkaa olla jo sellaisessa kondiksessa, että tätä voi alkaa pikkuhiljaa käyttämään "ihan oikeasti".
 

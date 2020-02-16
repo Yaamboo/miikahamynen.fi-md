@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-_[![The Net Delusion](http://miikahamynen.fi/wp-content/uploads/2012/04/Net-Delusion-261x400.jpg "The Net Delusion")](http://miikahamynen.fi/2012/04/01/auttaako-internet-diktaattoreita/net-delusion/)Kirjoitus on julkaistu lyhennettynä [Purjeessa 1/12](http://media.piraattipuolue.fi/purje/2012/purje-2012-1.pdf)._
+_[![The Net Delusion](/uploads/2012/04/Net-Delusion-261x400.jpg "The Net Delusion")](http://miikahamynen.fi/2012/04/01/auttaako-internet-diktaattoreita/net-delusion/)Kirjoitus on julkaistu lyhennettynä [Purjeessa 1/12](http://media.piraattipuolue.fi/purje/2012/purje-2012-1.pdf)._
 
 Onko verkko diktaattorille pelastus vai tuomio? Jevgeni Morozov kyseenalaistaa kirjassaan The Net Delusion (Verkon itsepetos, ei suomennettu) sen, mitä länsimaat ovat toitottaneet viimeiset kaksikymmentä vuotta: Internet ei tuokaan demokratiaa; Twitter ja Facebook ovat todellisuudessa aivan yhtä hyödyllisiä sortovaltioiden hallituksille kuin opposition edustajille; teknologia ei olekaan oikotie onneen.
 

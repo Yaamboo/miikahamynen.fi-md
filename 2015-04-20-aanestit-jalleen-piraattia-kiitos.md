@@ -9,7 +9,7 @@ status: "publish"
 coverImageId: ""
 ---
 
-\[caption id="attachment\_687" align="alignright" width="367"\][![Sain näissä vaaleissa kuvanikin lehteen.](http://miikahamynen.fi/wp-content/uploads/2015/04/lehtikuva_ksml_2015-04-12.jpg)](http://miikahamynen.fi/wp-content/uploads/2015/04/lehtikuva_ksml_2015-04-12.jpg) Sain näissä vaaleissa kuvanikin lehteen.\[/caption\]
+\[caption id="attachment\_687" align="alignright" width="367"\][![Sain näissä vaaleissa kuvanikin lehteen.](/uploads/2015/04/lehtikuva_ksml_2015-04-12.jpg)](/uploads/2015/04/lehtikuva_ksml_2015-04-12.jpg) Sain näissä vaaleissa kuvanikin lehteen.\[/caption\]
 
 _Tässä blogauksessa analysoin vaalitulosta lähinnä Keski-Suomen vaalipiirin osalta. Numerot ovat alustavan tuloksen perusteella, eli joitain muutoksia voi vielä tulla. Tiivistelmää / lp;el kaipaaville: lukekaa ainakin viimeiset kolme pointtia artikkelin lopusta._
 

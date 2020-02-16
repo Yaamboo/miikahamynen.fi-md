@@ -11,7 +11,7 @@ coverImageId: "2206"
 
 _Mielipidekirjoitus yhdessä Jonna Purojärven kanssa,_ [_julkaistu Keskisuomalaisessa 16.6.2019_](https://www.ksml.fi/mielipide/mielipidekirjoitus/Panssarit-pois-k%C3%A4velykadulta/1391590)_._
 
-[![](https://miikahamynen.fi/wp-content/uploads/2019/06/2019-06-16_ksml.jpg)](https://miikahamynen.fi/wp-content/uploads/2019/06/2019-06-16_ksml.jpg)
+[![](/uploads/2019/06/2019-06-16_ksml.jpg)](/uploads/2019/06/2019-06-16_ksml.jpg)
 
 Keskisuomalainen uutisoi 9.6. kuinka poliisi aikoo jatkossa partioida Jyväskylän kävelykadun vilskettä panssarimersulla. Mukavaa keskustatunnelmaa häiritsee jo nyt usein poliisin pakettiauto, ja jatkossa jalankulkijan onkin varottava entistä massiivisempaa järkälettä. Miten turvallisuus lisääntyy, kun pelkoa luodaan jo poliisinkin puolelta?
 
